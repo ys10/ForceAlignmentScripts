@@ -1,3 +1,4 @@
-.idea/
-wave/
-results/
+.idea/*
+wave/*
+results/*
+test/*
