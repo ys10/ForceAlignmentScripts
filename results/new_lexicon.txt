@@ -1,0 +1,5040 @@
+a1 a1
+a2 a2
+a3 a3
+a4 a4
+a5 a5
+a6 a6
+ai1 ai1
+ai2 ai2
+ai3 ai3
+ai4 ai4
+ai5 ai5
+ai6 ai6
+an1 an1
+an2 an2
+an3 an3
+an4 an4
+an5 an5
+an6 an6
+ang1 ang1
+ang2 ang2
+ang3 ang3
+ang4 ang4
+ang5 ang5
+ang6 ang6
+ao1 ao1
+ao2 ao2
+ao3 ao3
+ao4 ao4
+ao5 ao5
+ao6 ao6
+ba1 b a1
+ba2 b a2
+ba3 b a3
+ba4 b a4
+ba5 b a5
+ba6 b a6
+bai1 b ai1
+bai2 b ai2
+bai3 b ai3
+bai4 b ai4
+bai5 b ai5
+bai6 b ai6
+ban1 b an1
+ban2 b an2
+ban3 b an3
+ban4 b an4
+ban5 b an5
+ban6 b an6
+bang1 b ang1
+bang2 b ang2
+bang3 b ang3
+bang4 b ang4
+bang5 b ang5
+bang6 b ang6
+bao1 b ao1
+bao2 b ao2
+bao3 b ao3
+bao4 b ao4
+bao5 b ao5
+bao6 b ao6
+bei1 b ei1
+bei2 b ei2
+bei3 b ei3
+bei4 b ei4
+bei5 b ei5
+bei6 b ei6
+ben1 b en1
+ben2 b en2
+ben3 b en3
+ben4 b en4
+ben5 b en5
+ben6 b en6
+beng1 b eng1
+beng2 b eng2
+beng3 b eng3
+beng4 b eng4
+beng5 b eng5
+beng6 b eng6
+bi1 b i1
+bi2 b i2
+bi3 b i3
+bi4 b i4
+bi5 b i5
+bi6 b i6
+bian1 b ian1
+bian2 b ian2
+bian3 b ian3
+bian4 b ian4
+bian5 b ian5
+bian6 b ian6
+biao1 b iao1
+biao2 b iao2
+biao3 b iao3
+biao4 b iao4
+biao5 b iao5
+biao6 b iao6
+bie1 b ie1
+bie2 b ie2
+bie3 b ie3
+bie4 b ie4
+bie5 b ie5
+bie6 b ie6
+bin1 b in1
+bin2 b in2
+bin3 b in3
+bin4 b in4
+bin5 b in5
+bin6 b in6
+bing1 b ing1
+bing2 b ing2
+bing3 b ing3
+bing4 b ing4
+bing5 b ing5
+bing6 b ing6
+bo1 b o1
+bo2 b o2
+bo3 b o3
+bo4 b o4
+bo5 b o5
+bo6 b o6
+bu1 b u1
+bu2 b u2
+bu3 b u3
+bu4 b u4
+bu5 b u5
+bu6 b u6
+ca1 c a1
+ca2 c a2
+ca3 c a3
+ca4 c a4
+ca5 c a5
+ca6 c a6
+cai1 c ai1
+cai2 c ai2
+cai3 c ai3
+cai4 c ai4
+cai5 c ai5
+cai6 c ai6
+can1 c an1
+can2 c an2
+can3 c an3
+can4 c an4
+can5 c an5
+can6 c an6
+cang1 c ang1
+cang2 c ang2
+cang3 c ang3
+cang4 c ang4
+cang5 c ang5
+cang6 c ang6
+cao1 c ao1
+cao2 c ao2
+cao3 c ao3
+cao4 c ao4
+cao5 c ao5
+cao6 c ao6
+ce1 c e1
+ce2 c e2
+ce3 c e3
+ce4 c e4
+ce5 c e5
+ce6 c e6
+cen1 c en1
+cen2 c en2
+cen3 c en3
+cen4 c en4
+cen5 c en5
+cen6 c en6
+ceng1 c eng1
+ceng2 c eng2
+ceng3 c eng3
+ceng4 c eng4
+ceng5 c eng5
+ceng6 c eng6
+cha1 ch a1
+cha2 ch a2
+cha3 ch a3
+cha4 ch a4
+cha5 ch a5
+cha6 ch a6
+chai1 ch ai1
+chai2 ch ai2
+chai3 ch ai3
+chai4 ch ai4
+chai5 ch ai5
+chai6 ch ai6
+chan1 ch an1
+chan2 ch an2
+chan3 ch an3
+chan4 ch an4
+chan5 ch an5
+chan6 ch an6
+chang1 ch ang1
+chang2 ch ang2
+chang3 ch ang3
+chang4 ch ang4
+chang5 ch ang5
+chang6 ch ang6
+chao1 ch ao1
+chao2 ch ao2
+chao3 ch ao3
+chao4 ch ao4
+chao5 ch ao5
+chao6 ch ao6
+che1 ch e1
+che2 ch e2
+che3 ch e3
+che4 ch e4
+che5 ch e5
+che6 ch e6
+chen1 ch en1
+chen2 ch en2
+chen3 ch en3
+chen4 ch en4
+chen5 ch en5
+chen6 ch en6
+cheng1 ch eng1
+cheng2 ch eng2
+cheng3 ch eng3
+cheng4 ch eng4
+cheng5 ch eng5
+cheng6 ch eng6
+chi1 ch i1
+chi2 ch i2
+chi3 ch i3
+chi4 ch i4
+chi5 ch i5
+chi6 ch i6
+chong1 ch ong1
+chong2 ch ong2
+chong3 ch ong3
+chong4 ch ong4
+chong5 ch ong5
+chong6 ch ong6
+chou1 ch ou1
+chou2 ch ou2
+chou3 ch ou3
+chou4 ch ou4
+chou5 ch ou5
+chou6 ch ou6
+chu1 ch u1
+chu2 ch u2
+chu3 ch u3
+chu4 ch u4
+chu5 ch u5
+chu6 ch u6
+chua1 ch ua1
+chua2 ch ua2
+chua3 ch ua3
+chua4 ch ua4
+chua5 ch ua5
+chua6 ch ua6
+chuai1 ch uai1
+chuai2 ch uai2
+chuai3 ch uai3
+chuai4 ch uai4
+chuai5 ch uai5
+chuai6 ch uai6
+chuan1 ch uan1
+chuan2 ch uan2
+chuan3 ch uan3
+chuan4 ch uan4
+chuan5 ch uan5
+chuan6 ch uan6
+chuang1 ch uang1
+chuang2 ch uang2
+chuang3 ch uang3
+chuang4 ch uang4
+chuang5 ch uang5
+chuang6 ch uang6
+chui1 ch ui1
+chui2 ch ui2
+chui3 ch ui3
+chui4 ch ui4
+chui5 ch ui5
+chui6 ch ui6
+chun1 ch un1
+chun2 ch un2
+chun3 ch un3
+chun4 ch un4
+chun5 ch un5
+chun6 ch un6
+chuo1 ch uo1
+chuo2 ch uo2
+chuo3 ch uo3
+chuo4 ch uo4
+chuo5 ch uo5
+chuo6 ch uo6
+ci1 c i1
+ci2 c i2
+ci3 c i3
+ci4 c i4
+ci5 c i5
+ci6 c i6
+cong1 c ong1
+cong2 c ong2
+cong3 c ong3
+cong4 c ong4
+cong5 c ong5
+cong6 c ong6
+cou1 c ou1
+cou2 c ou2
+cou3 c ou3
+cou4 c ou4
+cou5 c ou5
+cou6 c ou6
+cu1 c u1
+cu2 c u2
+cu3 c u3
+cu4 c u4
+cu5 c u5
+cu6 c u6
+cuan1 c uan1
+cuan2 c uan2
+cuan3 c uan3
+cuan4 c uan4
+cuan5 c uan5
+cuan6 c uan6
+cui1 c ui1
+cui2 c ui2
+cui3 c ui3
+cui4 c ui4
+cui5 c ui5
+cui6 c ui6
+cun1 c un1
+cun2 c un2
+cun3 c un3
+cun4 c un4
+cun5 c un5
+cun6 c un6
+cuo1 c uo1
+cuo2 c uo2
+cuo3 c uo3
+cuo4 c uo4
+cuo5 c uo5
+cuo6 c uo6
+da1 d a1
+da2 d a2
+da3 d a3
+da4 d a4
+da5 d a5
+da6 d a6
+dai1 d ai1
+dai2 d ai2
+dai3 d ai3
+dai4 d ai4
+dai5 d ai5
+dai6 d ai6
+dan1 d an1
+dan2 d an2
+dan3 d an3
+dan4 d an4
+dan5 d an5
+dan6 d an6
+dang1 d ang1
+dang2 d ang2
+dang3 d ang3
+dang4 d ang4
+dang5 d ang5
+dang6 d ang6
+dao1 d ao1
+dao2 d ao2
+dao3 d ao3
+dao4 d ao4
+dao5 d ao5
+dao6 d ao6
+de1 d e1
+de2 d e2
+de3 d e3
+de4 d e4
+de5 d e5
+de6 d e6
+dei1 d ei1
+dei2 d ei2
+dei3 d ei3
+dei4 d ei4
+dei5 d ei5
+dei6 d ei6
+den1 d en1
+den2 d en2
+den3 d en3
+den4 d en4
+den5 d en5
+den6 d en6
+deng1 d eng1
+deng2 d eng2
+deng3 d eng3
+deng4 d eng4
+deng5 d eng5
+deng6 d eng6
+di1 d i1
+di2 d i2
+di3 d i3
+di4 d i4
+di5 d i5
+di6 d i6
+dia1 d ia1
+dia2 d ia2
+dia3 d ia3
+dia4 d ia4
+dia5 d ia5
+dia6 d ia6
+dian1 d ian1
+dian2 d ian2
+dian3 d ian3
+dian4 d ian4
+dian5 d ian5
+dian6 d ian6
+diang1 d iang1
+diang2 d iang2
+diang3 d iang3
+diang4 d iang4
+diang5 d iang5
+diang6 d iang6
+diao1 d iao1
+diao2 d iao2
+diao3 d iao3
+diao4 d iao4
+diao5 d iao5
+diao6 d iao6
+die1 d ie1
+die2 d ie2
+die3 d ie3
+die4 d ie4
+die5 d ie5
+die6 d ie6
+ding1 d ing1
+ding2 d ing2
+ding3 d ing3
+ding4 d ing4
+ding5 d ing5
+ding6 d ing6
+diu1 d iu1
+diu2 d iu2
+diu3 d iu3
+diu4 d iu4
+diu5 d iu5
+diu6 d iu6
+dong1 d ong1
+dong2 d ong2
+dong3 d ong3
+dong4 d ong4
+dong5 d ong5
+dong6 d ong6
+dou1 d ou1
+dou2 d ou2
+dou3 d ou3
+dou4 d ou4
+dou5 d ou5
+dou6 d ou6
+du1 d u1
+du2 d u2
+du3 d u3
+du4 d u4
+du5 d u5
+du6 d u6
+duan1 d uan1
+duan2 d uan2
+duan3 d uan3
+duan4 d uan4
+duan5 d uan5
+duan6 d uan6
+dui1 d ui1
+dui2 d ui2
+dui3 d ui3
+dui4 d ui4
+dui5 d ui5
+dui6 d ui6
+dun1 d un1
+dun2 d un2
+dun3 d un3
+dun4 d un4
+dun5 d un5
+dun6 d un6
+duo1 d uo1
+duo2 d uo2
+duo3 d uo3
+duo4 d uo4
+duo5 d uo5
+duo6 d uo6
+e1 e1
+e2 e2
+e3 e3
+e4 e4
+e5 e5
+e6 e6
+ei1 ei1
+ei2 ei2
+ei3 ei3
+ei4 ei4
+ei5 ei5
+ei6 ei6
+en1 en1
+en2 en2
+en3 en3
+en4 en4
+en5 en5
+en6 en6
+eng1 eng1
+eng2 eng2
+eng3 eng3
+eng4 eng4
+eng5 eng5
+eng6 eng6
+er1 er1
+er2 er2
+er3 er3
+er4 er4
+er5 er5
+er6 er6
+fa1 f a1
+fa2 f a2
+fa3 f a3
+fa4 f a4
+fa5 f a5
+fa6 f a6
+fan1 f an1
+fan2 f an2
+fan3 f an3
+fan4 f an4
+fan5 f an5
+fan6 f an6
+fang1 f ang1
+fang2 f ang2
+fang3 f ang3
+fang4 f ang4
+fang5 f ang5
+fang6 f ang6
+fei1 f ei1
+fei2 f ei2
+fei3 f ei3
+fei4 f ei4
+fei5 f ei5
+fei6 f ei6
+fen1 f en1
+fen2 f en2
+fen3 f en3
+fen4 f en4
+fen5 f en5
+fen6 f en6
+feng1 f eng1
+feng2 f eng2
+feng3 f eng3
+feng4 f eng4
+feng5 f eng5
+feng6 f eng6
+fiao1 f iao1
+fiao2 f iao2
+fiao3 f iao3
+fiao4 f iao4
+fiao5 f iao5
+fiao6 f iao6
+fo1 f o1
+fo2 f o2
+fo3 f o3
+fo4 f o4
+fo5 f o5
+fo6 f o6
+fou1 f ou1
+fou2 f ou2
+fou3 f ou3
+fou4 f ou4
+fou5 f ou5
+fou6 f ou6
+fu1 f u1
+fu2 f u2
+fu3 f u3
+fu4 f u4
+fu5 f u5
+fu6 f u6
+ga1 g a1
+ga2 g a2
+ga3 g a3
+ga4 g a4
+ga5 g a5
+ga6 g a6
+gai1 g ai1
+gai2 g ai2
+gai3 g ai3
+gai4 g ai4
+gai5 g ai5
+gai6 g ai6
+gan1 g an1
+gan2 g an2
+gan3 g an3
+gan4 g an4
+gan5 g an5
+gan6 g an6
+gang1 g ang1
+gang2 g ang2
+gang3 g ang3
+gang4 g ang4
+gang5 g ang5
+gang6 g ang6
+gao1 g ao1
+gao2 g ao2
+gao3 g ao3
+gao4 g ao4
+gao5 g ao5
+gao6 g ao6
+ge1 g e1
+ge2 g e2
+ge3 g e3
+ge4 g e4
+ge5 g e5
+ge6 g e6
+gei1 g ei1
+gei2 g ei2
+gei3 g ei3
+gei4 g ei4
+gei5 g ei5
+gei6 g ei6
+gen1 g en1
+gen2 g en2
+gen3 g en3
+gen4 g en4
+gen5 g en5
+gen6 g en6
+geng1 g eng1
+geng2 g eng2
+geng3 g eng3
+geng4 g eng4
+geng5 g eng5
+geng6 g eng6
+gong1 g ong1
+gong2 g ong2
+gong3 g ong3
+gong4 g ong4
+gong5 g ong5
+gong6 g ong6
+gou1 g ou1
+gou2 g ou2
+gou3 g ou3
+gou4 g ou4
+gou5 g ou5
+gou6 g ou6
+gu1 g u1
+gu2 g u2
+gu3 g u3
+gu4 g u4
+gu5 g u5
+gu6 g u6
+gua1 g ua1
+gua2 g ua2
+gua3 g ua3
+gua4 g ua4
+gua5 g ua5
+gua6 g ua6
+guai1 g uai1
+guai2 g uai2
+guai3 g uai3
+guai4 g uai4
+guai5 g uai5
+guai6 g uai6
+guan1 g uan1
+guan2 g uan2
+guan3 g uan3
+guan4 g uan4
+guan5 g uan5
+guan6 g uan6
+guang1 g uang1
+guang2 g uang2
+guang3 g uang3
+guang4 g uang4
+guang5 g uang5
+guang6 g uang6
+gui1 g ui1
+gui2 g ui2
+gui3 g ui3
+gui4 g ui4
+gui5 g ui5
+gui6 g ui6
+gun1 g un1
+gun2 g un2
+gun3 g un3
+gun4 g un4
+gun5 g un5
+gun6 g un6
+guo1 g uo1
+guo2 g uo2
+guo3 g uo3
+guo4 g uo4
+guo5 g uo5
+guo6 g uo6
+ha1 h a1
+ha2 h a2
+ha3 h a3
+ha4 h a4
+ha5 h a5
+ha6 h a6
+hai1 h ai1
+hai2 h ai2
+hai3 h ai3
+hai4 h ai4
+hai5 h ai5
+hai6 h ai6
+han1 h an1
+han2 h an2
+han3 h an3
+han4 h an4
+han5 h an5
+han6 h an6
+hang1 h ang1
+hang2 h ang2
+hang3 h ang3
+hang4 h ang4
+hang5 h ang5
+hang6 h ang6
+hao1 h ao1
+hao2 h ao2
+hao3 h ao3
+hao4 h ao4
+hao5 h ao5
+hao6 h ao6
+he1 h e1
+he2 h e2
+he3 h e3
+he4 h e4
+he5 h e5
+he6 h e6
+hei1 h ei1
+hei2 h ei2
+hei3 h ei3
+hei4 h ei4
+hei5 h ei5
+hei6 h ei6
+hen1 h en1
+hen2 h en2
+hen3 h en3
+hen4 h en4
+hen5 h en5
+hen6 h en6
+heng1 h eng1
+heng2 h eng2
+heng3 h eng3
+heng4 h eng4
+heng5 h eng5
+heng6 h eng6
+ho1 h o1
+ho2 h o2
+ho3 h o3
+ho4 h o4
+ho5 h o5
+ho6 h o6
+hong1 h ong1
+hong2 h ong2
+hong3 h ong3
+hong4 h ong4
+hong5 h ong5
+hong6 h ong6
+hou1 h ou1
+hou2 h ou2
+hou3 h ou3
+hou4 h ou4
+hou5 h ou5
+hou6 h ou6
+hu1 h u1
+hu2 h u2
+hu3 h u3
+hu4 h u4
+hu5 h u5
+hu6 h u6
+hua1 h ua1
+hua2 h ua2
+hua3 h ua3
+hua4 h ua4
+hua5 h ua5
+hua6 h ua6
+huai1 h uai1
+huai2 h uai2
+huai3 h uai3
+huai4 h uai4
+huai5 h uai5
+huai6 h uai6
+huan1 h uan1
+huan2 h uan2
+huan3 h uan3
+huan4 h uan4
+huan5 h uan5
+huan6 h uan6
+huang1 h uang1
+huang2 h uang2
+huang3 h uang3
+huang4 h uang4
+huang5 h uang5
+huang6 h uang6
+hui1 h ui1
+hui2 h ui2
+hui3 h ui3
+hui4 h ui4
+hui5 h ui5
+hui6 h ui6
+hun1 h un1
+hun2 h un2
+hun3 h un3
+hun4 h un4
+hun5 h un5
+hun6 h un6
+huo1 h uo1
+huo2 h uo2
+huo3 h uo3
+huo4 h uo4
+huo5 h uo5
+huo6 h uo6
+ji1 j i1
+ji2 j i2
+ji3 j i3
+ji4 j i4
+ji5 j i5
+ji6 j i6
+jia1 j ia1
+jia2 j ia2
+jia3 j ia3
+jia4 j ia4
+jia5 j ia5
+jia6 j ia6
+jian1 j ian1
+jian2 j ian2
+jian3 j ian3
+jian4 j ian4
+jian5 j ian5
+jian6 j ian6
+jiang1 j iang1
+jiang2 j iang2
+jiang3 j iang3
+jiang4 j iang4
+jiang5 j iang5
+jiang6 j iang6
+jiao1 j iao1
+jiao2 j iao2
+jiao3 j iao3
+jiao4 j iao4
+jiao5 j iao5
+jiao6 j iao6
+jie1 j ie1
+jie2 j ie2
+jie3 j ie3
+jie4 j ie4
+jie5 j ie5
+jie6 j ie6
+jin1 j in1
+jin2 j in2
+jin3 j in3
+jin4 j in4
+jin5 j in5
+jin6 j in6
+jing1 j ing1
+jing2 j ing2
+jing3 j ing3
+jing4 j ing4
+jing5 j ing5
+jing6 j ing6
+jiong1 j iong1
+jiong2 j iong2
+jiong3 j iong3
+jiong4 j iong4
+jiong5 j iong5
+jiong6 j iong6
+jiu1 j iu1
+jiu2 j iu2
+jiu3 j iu3
+jiu4 j iu4
+jiu5 j iu5
+jiu6 j iu6
+ju1 j u1
+ju2 j u2
+ju3 j u3
+ju4 j u4
+ju5 j u5
+ju6 j u6
+juan1 j uan1
+juan2 j uan2
+juan3 j uan3
+juan4 j uan4
+juan5 j uan5
+juan6 j uan6
+jue1 j ue1
+jue2 j ue2
+jue3 j ue3
+jue4 j ue4
+jue5 j ue5
+jue6 j ue6
+jun1 j un1
+jun2 j un2
+jun3 j un3
+jun4 j un4
+jun5 j un5
+jun6 j un6
+ka1 k a1
+ka2 k a2
+ka3 k a3
+ka4 k a4
+ka5 k a5
+ka6 k a6
+kai1 k ai1
+kai2 k ai2
+kai3 k ai3
+kai4 k ai4
+kai5 k ai5
+kai6 k ai6
+kan1 k an1
+kan2 k an2
+kan3 k an3
+kan4 k an4
+kan5 k an5
+kan6 k an6
+kang1 k ang1
+kang2 k ang2
+kang3 k ang3
+kang4 k ang4
+kang5 k ang5
+kang6 k ang6
+kao1 k ao1
+kao2 k ao2
+kao3 k ao3
+kao4 k ao4
+kao5 k ao5
+kao6 k ao6
+ke1 k e1
+ke2 k e2
+ke3 k e3
+ke4 k e4
+ke5 k e5
+ke6 k e6
+ken1 k en1
+ken2 k en2
+ken3 k en3
+ken4 k en4
+ken5 k en5
+ken6 k en6
+keng1 k eng1
+keng2 k eng2
+keng3 k eng3
+keng4 k eng4
+keng5 k eng5
+keng6 k eng6
+kong1 k ong1
+kong2 k ong2
+kong3 k ong3
+kong4 k ong4
+kong5 k ong5
+kong6 k ong6
+kou1 k ou1
+kou2 k ou2
+kou3 k ou3
+kou4 k ou4
+kou5 k ou5
+kou6 k ou6
+ku1 k u1
+ku2 k u2
+ku3 k u3
+ku4 k u4
+ku5 k u5
+ku6 k u6
+kua1 k ua1
+kua2 k ua2
+kua3 k ua3
+kua4 k ua4
+kua5 k ua5
+kua6 k ua6
+kuai1 k uai1
+kuai2 k uai2
+kuai3 k uai3
+kuai4 k uai4
+kuai5 k uai5
+kuai6 k uai6
+kuan1 k uan1
+kuan2 k uan2
+kuan3 k uan3
+kuan4 k uan4
+kuan5 k uan5
+kuan6 k uan6
+kuang1 k uang1
+kuang2 k uang2
+kuang3 k uang3
+kuang4 k uang4
+kuang5 k uang5
+kuang6 k uang6
+kui1 k ui1
+kui2 k ui2
+kui3 k ui3
+kui4 k ui4
+kui5 k ui5
+kui6 k ui6
+kun1 k un1
+kun2 k un2
+kun3 k un3
+kun4 k un4
+kun5 k un5
+kun6 k un6
+kuo1 k uo1
+kuo2 k uo2
+kuo3 k uo3
+kuo4 k uo4
+kuo5 k uo5
+kuo6 k uo6
+la1 l a1
+la2 l a2
+la3 l a3
+la4 l a4
+la5 l a5
+la6 l a6
+lai1 l ai1
+lai2 l ai2
+lai3 l ai3
+lai4 l ai4
+lai5 l ai5
+lai6 l ai6
+lan1 l an1
+lan2 l an2
+lan3 l an3
+lan4 l an4
+lan5 l an5
+lan6 l an6
+lang1 l ang1
+lang2 l ang2
+lang3 l ang3
+lang4 l ang4
+lang5 l ang5
+lang6 l ang6
+lao1 l ao1
+lao2 l ao2
+lao3 l ao3
+lao4 l ao4
+lao5 l ao5
+lao6 l ao6
+le1 l e1
+le2 l e2
+le3 l e3
+le4 l e4
+le5 l e5
+le6 l e6
+lei1 l ei1
+lei2 l ei2
+lei3 l ei3
+lei4 l ei4
+lei5 l ei5
+lei6 l ei6
+leng1 l eng1
+leng2 l eng2
+leng3 l eng3
+leng4 l eng4
+leng5 l eng5
+leng6 l eng6
+li1 l i1
+li2 l i2
+li3 l i3
+li4 l i4
+li5 l i5
+li6 l i6
+lia1 l ia1
+lia2 l ia2
+lia3 l ia3
+lia4 l ia4
+lia5 l ia5
+lia6 l ia6
+lian1 l ian1
+lian2 l ian2
+lian3 l ian3
+lian4 l ian4
+lian5 l ian5
+lian6 l ian6
+liang1 l iang1
+liang2 l iang2
+liang3 l iang3
+liang4 l iang4
+liang5 l iang5
+liang6 l iang6
+liao1 l iao1
+liao2 l iao2
+liao3 l iao3
+liao4 l iao4
+liao5 l iao5
+liao6 l iao6
+lie1 l ie1
+lie2 l ie2
+lie3 l ie3
+lie4 l ie4
+lie5 l ie5
+lie6 l ie6
+lin1 l in1
+lin2 l in2
+lin3 l in3
+lin4 l in4
+lin5 l in5
+lin6 l in6
+ling1 l ing1
+ling2 l ing2
+ling3 l ing3
+ling4 l ing4
+ling5 l ing5
+ling6 l ing6
+liu1 l iu1
+liu2 l iu2
+liu3 l iu3
+liu4 l iu4
+liu5 l iu5
+liu6 l iu6
+lo1 l o1
+lo2 l o2
+lo3 l o3
+lo4 l o4
+lo5 l o5
+lo6 l o6
+long1 l ong1
+long2 l ong2
+long3 l ong3
+long4 l ong4
+long5 l ong5
+long6 l ong6
+lou1 l ou1
+lou2 l ou2
+lou3 l ou3
+lou4 l ou4
+lou5 l ou5
+lou6 l ou6
+lu1 l u1
+lu2 l u2
+lu3 l u3
+lu4 l u4
+lu5 l u5
+lu6 l u6
+luan1 l uan1
+luan2 l uan2
+luan3 l uan3
+luan4 l uan4
+luan5 l uan5
+luan6 l uan6
+lun1 l un1
+lun2 l un2
+lun3 l un3
+lun4 l un4
+lun5 l un5
+lun6 l un6
+luo1 l uo1
+luo2 l uo2
+luo3 l uo3
+luo4 l uo4
+luo5 l uo5
+luo6 l uo6
+lv1 l v1
+lv2 l v2
+lv3 l v3
+lv4 l v4
+lv5 l v5
+lv6 l v6
+lue1 l ue1
+lue2 l ue2
+lue3 l ue3
+lue4 l ue4
+lue5 l ue5
+lue6 l ue6
+lve1 l ve1
+lve2 l ve2
+lve3 l ve3
+lve4 l ve4
+lve5 l ve5
+lve6 l ve6
+m1 m1
+m2 m2
+m3 m3
+m4 m4
+m5 m5
+m6 m6
+ma1 m a1
+ma2 m a2
+ma3 m a3
+ma4 m a4
+ma5 m a5
+ma6 m a6
+mai1 m ai1
+mai2 m ai2
+mai3 m ai3
+mai4 m ai4
+mai5 m ai5
+mai6 m ai6
+man1 m an1
+man2 m an2
+man3 m an3
+man4 m an4
+man5 m an5
+man6 m an6
+mang1 m ang1
+mang2 m ang2
+mang3 m ang3
+mang4 m ang4
+mang5 m ang5
+mang6 m ang6
+mao1 m ao1
+mao2 m ao2
+mao3 m ao3
+mao4 m ao4
+mao5 m ao5
+mao6 m ao6
+me1 m e1
+me2 m e2
+me3 m e3
+me4 m e4
+me5 m e5
+me6 m e6
+mei1 m ei1
+mei2 m ei2
+mei3 m ei3
+mei4 m ei4
+mei5 m ei5
+mei6 m ei6
+men1 m en1
+men2 m en2
+men3 m en3
+men4 m en4
+men5 m en5
+men6 m en6
+meng1 m eng1
+meng2 m eng2
+meng3 m eng3
+meng4 m eng4
+meng5 m eng5
+meng6 m eng6
+mi1 m i1
+mi2 m i2
+mi3 m i3
+mi4 m i4
+mi5 m i5
+mi6 m i6
+mian1 m ian1
+mian2 m ian2
+mian3 m ian3
+mian4 m ian4
+mian5 m ian5
+mian6 m ian6
+miao1 m iao1
+miao2 m iao2
+miao3 m iao3
+miao4 m iao4
+miao5 m iao5
+miao6 m iao6
+mie1 m ie1
+mie2 m ie2
+mie3 m ie3
+mie4 m ie4
+mie5 m ie5
+mie6 m ie6
+min1 m in1
+min2 m in2
+min3 m in3
+min4 m in4
+min5 m in5
+min6 m in6
+ming1 m ing1
+ming2 m ing2
+ming3 m ing3
+ming4 m ing4
+ming5 m ing5
+ming6 m ing6
+miu1 m iu1
+miu2 m iu2
+miu3 m iu3
+miu4 m iu4
+miu5 m iu5
+miu6 m iu6
+mo1 m o1
+mo2 m o2
+mo3 m o3
+mo4 m o4
+mo5 m o5
+mo6 m o6
+mou1 m ou1
+mou2 m ou2
+mou3 m ou3
+mou4 m ou4
+mou5 m ou5
+mou6 m ou6
+mu1 m u1
+mu2 m u2
+mu3 m u3
+mu4 m u4
+mu5 m u5
+mu6 m u6
+na1 n a1
+na2 n a2
+na3 n a3
+n1 n1
+n2 n2
+n3 n3
+n4 n4
+n5 n5
+n6 n6
+na4 n a4
+na5 n a5
+na6 n a6
+nai1 n ai1
+nai2 n ai2
+nai3 n ai3
+nai4 n ai4
+nai5 n ai5
+nai6 n ai6
+nan1 n an1
+nan2 n an2
+nan3 n an3
+nan4 n an4
+nan5 n an5
+nan6 n an6
+nang1 n ang1
+nang2 n ang2
+nang3 n ang3
+nang4 n ang4
+nang5 n ang5
+nang6 n ang6
+nao1 n ao1
+nao2 n ao2
+nao3 n ao3
+nao4 n ao4
+nao5 n ao5
+nao6 n ao6
+ne1 n e1
+ne2 n e2
+ne3 n e3
+ne4 n e4
+ne5 n e5
+ne6 n e6
+nei1 n ei1
+nei2 n ei2
+nei3 n ei3
+nei4 n ei4
+nei5 n ei5
+nei6 n ei6
+nen1 n en1
+nen2 n en2
+nen3 n en3
+nen4 n en4
+nen5 n en5
+nen6 n en6
+neng1 n eng1
+neng2 n eng2
+neng3 n eng3
+neng4 n eng4
+neng5 n eng5
+neng6 n eng6
+ni1 n i1
+ni2 n i2
+ni3 n i3
+ni4 n i4
+ni5 n i5
+ni6 n i6
+nian1 n ian1
+nian2 n ian2
+nian3 n ian3
+nian4 n ian4
+nian5 n ian5
+nian6 n ian6
+niang1 n iang1
+niang2 n iang2
+niang3 n iang3
+niang4 n iang4
+niang5 n iang5
+niang6 n iang6
+niao1 n iao1
+niao2 n iao2
+niao3 n iao3
+niao4 n iao4
+niao5 n iao5
+niao6 n iao6
+nie1 n ie1
+nie2 n ie2
+nie3 n ie3
+nie4 n ie4
+nie5 n ie5
+nie6 n ie6
+nin1 n in1
+nin2 n in2
+nin3 n in3
+nin4 n in4
+nin5 n in5
+nin6 n in6
+ning1 n ing1
+ning2 n ing2
+ning3 n ing3
+ning4 n ing4
+ning5 n ing5
+ning6 n ing6
+niu1 n iu1
+niu2 n iu2
+niu3 n iu3
+niu4 n iu4
+niu5 n iu5
+niu6 n iu6
+nong1 n ong1
+nong2 n ong2
+nong3 n ong3
+nong4 n ong4
+nong5 n ong5
+nong6 n ong6
+nou1 n ou1
+nou2 n ou2
+nou3 n ou3
+nou4 n ou4
+nou5 n ou5
+nou6 n ou6
+nu1 n u1
+nu2 n u2
+nu3 n u3
+nu4 n u4
+nu5 n u5
+nu6 n u6
+nuan1 n uan1
+nuan2 n uan2
+nuan3 n uan3
+nuan4 n uan4
+nuan5 n uan5
+nuan6 n uan6
+nun1 n un1
+nun2 n un2
+nun3 n un3
+nun4 n un4
+nun5 n un5
+nun6 n un6
+nuo1 n uo1
+nuo2 n uo2
+nuo3 n uo3
+nuo4 n uo4
+nuo5 n uo5
+nuo6 n uo6
+nv1 n v1
+nv2 n v2
+nv3 n v3
+nv4 n v4
+nv5 n v5
+nv6 n v6
+nue1 n ue1
+nue2 n ue2
+nue3 n ue3
+nue4 n ue4
+nue5 n ue5
+nue6 n ue6
+nve1 n ve1
+nve2 n ve2
+nve3 n ve3
+nve4 n ve4
+nve5 n ve5
+nve6 n ve6
+ng1 ng1
+ng2 ng2
+ng3 ng3
+ng4 ng4
+ng5 ng5
+ng6 ng6
+o1 o1
+o2 o2
+o3 o3
+o4 o4
+o5 o5
+o6 o6
+ou1 ou1
+ou2 ou2
+ou3 ou3
+ou4 ou4
+ou5 ou5
+ou6 ou6
+pa1 p a1
+pa2 p a2
+pa3 p a3
+pa4 p a4
+pa5 p a5
+pa6 p a6
+pai1 p ai1
+pai2 p ai2
+pai3 p ai3
+pai4 p ai4
+pai5 p ai5
+pai6 p ai6
+pan1 p an1
+pan2 p an2
+pan3 p an3
+pan4 p an4
+pan5 p an5
+pan6 p an6
+pang1 p ang1
+pang2 p ang2
+pang3 p ang3
+pang4 p ang4
+pang5 p ang5
+pang6 p ang6
+pao1 p ao1
+pao2 p ao2
+pao3 p ao3
+pao4 p ao4
+pao5 p ao5
+pao6 p ao6
+pei1 p ei1
+pei2 p ei2
+pei3 p ei3
+pei4 p ei4
+pei5 p ei5
+pei6 p ei6
+pen1 p en1
+pen2 p en2
+pen3 p en3
+pen4 p en4
+pen5 p en5
+pen6 p en6
+peng1 p eng1
+peng2 p eng2
+peng3 p eng3
+peng4 p eng4
+peng5 p eng5
+peng6 p eng6
+pi1 p i1
+pi2 p i2
+pi3 p i3
+pi4 p i4
+pi5 p i5
+pi6 p i6
+pian1 p ian1
+pian2 p ian2
+pian3 p ian3
+pian4 p ian4
+pian5 p ian5
+pian6 p ian6
+piao1 p iao1
+piao2 p iao2
+piao3 p iao3
+piao4 p iao4
+piao5 p iao5
+piao6 p iao6
+pie1 p ie1
+pie2 p ie2
+pie3 p ie3
+pie4 p ie4
+pie5 p ie5
+pie6 p ie6
+pin1 p in1
+pin2 p in2
+pin3 p in3
+pin4 p in4
+pin5 p in5
+pin6 p in6
+ping1 p ing1
+ping2 p ing2
+ping3 p ing3
+ping4 p ing4
+ping5 p ing5
+ping6 p ing6
+po1 p o1
+po2 p o2
+po3 p o3
+po4 p o4
+po5 p o5
+po6 p o6
+pou1 p ou1
+pou2 p ou2
+pou3 p ou3
+pou4 p ou4
+pou5 p ou5
+pou6 p ou6
+pu1 p u1
+pu2 p u2
+pu3 p u3
+pu4 p u4
+pu5 p u5
+pu6 p u6
+qi1 q i1
+qi2 q i2
+qi3 q i3
+qi4 q i4
+qi5 q i5
+qi6 q i6
+qia1 q ia1
+qia2 q ia2
+qia3 q ia3
+qia4 q ia4
+qia5 q ia5
+qia6 q ia6
+qian1 q ian1
+qian2 q ian2
+qian3 q ian3
+qian4 q ian4
+qian5 q ian5
+qian6 q ian6
+qiang1 q iang1
+qiang2 q iang2
+qiang3 q iang3
+qiang4 q iang4
+qiang5 q iang5
+qiang6 q iang6
+qiao1 q iao1
+qiao2 q iao2
+qiao3 q iao3
+qiao4 q iao4
+qiao5 q iao5
+qiao6 q iao6
+qie1 q ie1
+qie2 q ie2
+qie3 q ie3
+qie4 q ie4
+qie5 q ie5
+qie6 q ie6
+qin1 q in1
+qin2 q in2
+qin3 q in3
+qin4 q in4
+qin5 q in5
+qin6 q in6
+qing1 q ing1
+qing2 q ing2
+qing3 q ing3
+qing4 q ing4
+qing5 q ing5
+qing6 q ing6
+qiong1 q iong1
+qiong2 q iong2
+qiong3 q iong3
+qiong4 q iong4
+qiong5 q iong5
+qiong6 q iong6
+qiu1 q iu1
+qiu2 q iu2
+qiu3 q iu3
+qiu4 q iu4
+qiu5 q iu5
+qiu6 q iu6
+qu1 q u1
+qu2 q u2
+qu3 q u3
+qu4 q u4
+qu5 q u5
+qu6 q u6
+quan1 q uan1
+quan2 q uan2
+quan3 q uan3
+quan4 q uan4
+quan5 q uan5
+quan6 q uan6
+que1 q ue1
+que2 q ue2
+que3 q ue3
+que4 q ue4
+que5 q ue5
+que6 q ue6
+qun1 q un1
+qun2 q un2
+qun3 q un3
+qun4 q un4
+qun5 q un5
+qun6 q un6
+ran1 r an1
+ran2 r an2
+ran3 r an3
+ran4 r an4
+ran5 r an5
+ran6 r an6
+rang1 r ang1
+rang2 r ang2
+rang3 r ang3
+rang4 r ang4
+rang5 r ang5
+rang6 r ang6
+rao1 r ao1
+rao2 r ao2
+rao3 r ao3
+rao4 r ao4
+rao5 r ao5
+rao6 r ao6
+re1 r e1
+re2 r e2
+re3 r e3
+re4 r e4
+re5 r e5
+re6 r e6
+ren1 r en1
+ren2 r en2
+ren3 r en3
+ren4 r en4
+ren5 r en5
+ren6 r en6
+reng1 r eng1
+reng2 r eng2
+reng3 r eng3
+reng4 r eng4
+reng5 r eng5
+reng6 r eng6
+ri1 r i1
+ri2 r i2
+ri3 r i3
+ri4 r i4
+ri5 r i5
+ri6 r i6
+rong1 r ong1
+rong2 r ong2
+rong3 r ong3
+rong4 r ong4
+rong5 r ong5
+rong6 r ong6
+rou1 r ou1
+rou2 r ou2
+rou3 r ou3
+rou4 r ou4
+rou5 r ou5
+rou6 r ou6
+ru1 r u1
+ru2 r u2
+ru3 r u3
+ru4 r u4
+ru5 r u5
+ru6 r u6
+rua1 r ua1
+rua2 r ua2
+rua3 r ua3
+rua4 r ua4
+rua5 r ua5
+rua6 r ua6
+ruan1 r uan1
+ruan2 r uan2
+ruan3 r uan3
+ruan4 r uan4
+ruan5 r uan5
+ruan6 r uan6
+rui1 r ui1
+rui2 r ui2
+rui3 r ui3
+rui4 r ui4
+rui5 r ui5
+rui6 r ui6
+run1 r un1
+run2 r un2
+run3 r un3
+run4 r un4
+run5 r un5
+run6 r un6
+ruo1 r uo1
+ruo2 r uo2
+ruo3 r uo3
+ruo4 r uo4
+ruo5 r uo5
+ruo6 r uo6
+sa1 s a1
+sa2 s a2
+sa3 s a3
+sa4 s a4
+sa5 s a5
+sa6 s a6
+sai1 s ai1
+sai2 s ai2
+sai3 s ai3
+sai4 s ai4
+sai5 s ai5
+sai6 s ai6
+san1 s an1
+san2 s an2
+san3 s an3
+san4 s an4
+san5 s an5
+san6 s an6
+sang1 s ang1
+sang2 s ang2
+sang3 s ang3
+sang4 s ang4
+sang5 s ang5
+sang6 s ang6
+sao1 s ao1
+sao2 s ao2
+sao3 s ao3
+sao4 s ao4
+sao5 s ao5
+sao6 s ao6
+se1 s e1
+se2 s e2
+se3 s e3
+se4 s e4
+se5 s e5
+se6 s e6
+sei1 s ei1
+sei2 s ei2
+sei3 s ei3
+sei4 s ei4
+sei5 s ei5
+sei6 s ei6
+sen1 s en1
+sen2 s en2
+sen3 s en3
+sen4 s en4
+sen5 s en5
+sen6 s en6
+seng1 s eng1
+seng2 s eng2
+seng3 s eng3
+seng4 s eng4
+seng5 s eng5
+seng6 s eng6
+sha1 sh a1
+sha2 sh a2
+sha3 sh a3
+sha4 sh a4
+sha5 sh a5
+sha6 sh a6
+shai1 sh ai1
+shai2 sh ai2
+shai3 sh ai3
+shai4 sh ai4
+shai5 sh ai5
+shai6 sh ai6
+shan1 sh an1
+shan2 sh an2
+shan3 sh an3
+shan4 sh an4
+shan5 sh an5
+shan6 sh an6
+shang1 sh ang1
+shang2 sh ang2
+shang3 sh ang3
+shang4 sh ang4
+shang5 sh ang5
+shang6 sh ang6
+shao1 sh ao1
+shao2 sh ao2
+shao3 sh ao3
+shao4 sh ao4
+shao5 sh ao5
+shao6 sh ao6
+she1 sh e1
+she2 sh e2
+she3 sh e3
+she4 sh e4
+she5 sh e5
+she6 sh e6
+shei1 sh ei1
+shei2 sh ei2
+shei3 sh ei3
+shei4 sh ei4
+shei5 sh ei5
+shei6 sh ei6
+shen1 sh en1
+shen2 sh en2
+shen3 sh en3
+shen4 sh en4
+shen5 sh en5
+shen6 sh en6
+sheng1 sh eng1
+sheng2 sh eng2
+sheng3 sh eng3
+sheng4 sh eng4
+sheng5 sh eng5
+sheng6 sh eng6
+shi1 sh i1
+shi2 sh i2
+shi3 sh i3
+shi4 sh i4
+shi5 sh i5
+shi6 sh i6
+shong1 sh ong1
+shong2 sh ong2
+shong3 sh ong3
+shong4 sh ong4
+shong5 sh ong5
+shong6 sh ong6
+shou1 sh ou1
+shou2 sh ou2
+shou3 sh ou3
+shou4 sh ou4
+shou5 sh ou5
+shou6 sh ou6
+shu1 sh u1
+shu2 sh u2
+shu3 sh u3
+shu4 sh u4
+shu5 sh u5
+shu6 sh u6
+shua1 sh ua1
+shua2 sh ua2
+shua3 sh ua3
+shua4 sh ua4
+shua5 sh ua5
+shua6 sh ua6
+shuai1 sh uai1
+shuai2 sh uai2
+shuai3 sh uai3
+shuai4 sh uai4
+shuai5 sh uai5
+shuai6 sh uai6
+shuan1 sh uan1
+shuan2 sh uan2
+shuan3 sh uan3
+shuan4 sh uan4
+shuan5 sh uan5
+shuan6 sh uan6
+shuang1 sh uang1
+shuang2 sh uang2
+shuang3 sh uang3
+shuang4 sh uang4
+shuang5 sh uang5
+shuang6 sh uang6
+shui1 sh ui1
+shui2 sh ui2
+shui3 sh ui3
+shui4 sh ui4
+shui5 sh ui5
+shui6 sh ui6
+shun1 sh un1
+shun2 sh un2
+shun3 sh un3
+shun4 sh un4
+shun5 sh un5
+shun6 sh un6
+shuo1 sh uo1
+shuo2 sh uo2
+shuo3 sh uo3
+shuo4 sh uo4
+shuo5 sh uo5
+shuo6 sh uo6
+si1 s i1
+si2 s i2
+si3 s i3
+si4 s i4
+si5 s i5
+si6 s i6
+song1 s ong1
+song2 s ong2
+song3 s ong3
+song4 s ong4
+song5 s ong5
+song6 s ong6
+sou1 s ou1
+sou2 s ou2
+sou3 s ou3
+sou4 s ou4
+sou5 s ou5
+sou6 s ou6
+su1 s u1
+su2 s u2
+su3 s u3
+su4 s u4
+su5 s u5
+su6 s u6
+suan1 s uan1
+suan2 s uan2
+suan3 s uan3
+suan4 s uan4
+suan5 s uan5
+suan6 s uan6
+sui1 s ui1
+sui2 s ui2
+sui3 s ui3
+sui4 s ui4
+sui5 s ui5
+sui6 s ui6
+sun1 s un1
+sun2 s un2
+sun3 s un3
+sun4 s un4
+sun5 s un5
+sun6 s un6
+suo1 s uo1
+suo2 s uo2
+suo3 s uo3
+suo4 s uo4
+suo5 s uo5
+suo6 s uo6
+ta1 t a1
+ta2 t a2
+ta3 t a3
+ta4 t a4
+ta5 t a5
+ta6 t a6
+tai1 t ai1
+tai2 t ai2
+tai3 t ai3
+tai4 t ai4
+tai5 t ai5
+tai6 t ai6
+tan1 t an1
+tan2 t an2
+tan3 t an3
+tan4 t an4
+tan5 t an5
+tan6 t an6
+tang1 t ang1
+tang2 t ang2
+tang3 t ang3
+tang4 t ang4
+tang5 t ang5
+tang6 t ang6
+tao1 t ao1
+tao2 t ao2
+tao3 t ao3
+tao4 t ao4
+tao5 t ao5
+tao6 t ao6
+te1 t e1
+te2 t e2
+te3 t e3
+te4 t e4
+te5 t e5
+te6 t e6
+tei1 t ei1
+tei2 t ei2
+tei3 t ei3
+tei4 t ei4
+tei5 t ei5
+tei6 t ei6
+teng1 t eng1
+teng2 t eng2
+teng3 t eng3
+teng4 t eng4
+teng5 t eng5
+teng6 t eng6
+ti1 t i1
+ti2 t i2
+ti3 t i3
+ti4 t i4
+ti5 t i5
+ti6 t i6
+tian1 t ian1
+tian2 t ian2
+tian3 t ian3
+tian4 t ian4
+tian5 t ian5
+tian6 t ian6
+tiao1 t iao1
+tiao2 t iao2
+tiao3 t iao3
+tiao4 t iao4
+tiao5 t iao5
+tiao6 t iao6
+tie1 t ie1
+tie2 t ie2
+tie3 t ie3
+tie4 t ie4
+tie5 t ie5
+tie6 t ie6
+ting1 t ing1
+ting2 t ing2
+ting3 t ing3
+ting4 t ing4
+ting5 t ing5
+ting6 t ing6
+tong1 t ong1
+tong2 t ong2
+tong3 t ong3
+tong4 t ong4
+tong5 t ong5
+tong6 t ong6
+tou1 t ou1
+tou2 t ou2
+tou3 t ou3
+tou4 t ou4
+tou5 t ou5
+tou6 t ou6
+tu1 t u1
+tu2 t u2
+tu3 t u3
+tu4 t u4
+tu5 t u5
+tu6 t u6
+tuan1 t uan1
+tuan2 t uan2
+tuan3 t uan3
+tuan4 t uan4
+tuan5 t uan5
+tuan6 t uan6
+tui1 t ui1
+tui2 t ui2
+tui3 t ui3
+tui4 t ui4
+tui5 t ui5
+tui6 t ui6
+tun1 t un1
+tun2 t un2
+tun3 t un3
+tun4 t un4
+tun5 t un5
+tun6 t un6
+tuo1 t uo1
+tuo2 t uo2
+tuo3 t uo3
+tuo4 t uo4
+tuo5 t uo5
+tuo6 t uo6
+wa1 ua1
+wa2 ua2
+wa3 ua3
+wa4 ua4
+wa5 ua5
+wa6 ua6
+wai1 uai1
+wai2 uai2
+wai3 uai3
+wai4 uai4
+wai5 uai5
+wai6 uai6
+wan1 uan1
+wan2 uan2
+wan3 uan3
+wan4 uan4
+wan5 uan5
+wan6 uan6
+wang1 uang1
+wang2 uang2
+wang3 uang3
+wang4 uang4
+wang5 uang5
+wang6 uang6
+wei1 ui1
+wei2 ui2
+wei3 ui3
+wei4 ui4
+wei5 ui5
+wei6 ui6
+wen1 un1
+wen2 un2
+wen3 un3
+wen4 un4
+wen5 un5
+wen6 un6
+weng1 ueng1
+weng2 ueng2
+weng3 ueng3
+weng4 ueng4
+weng5 ueng5
+weng6 ueng6
+wo1 uo1
+wo2 uo2
+wo3 uo3
+wo4 uo4
+wo5 uo5
+wo6 uo6
+wu1 u1
+wu2 u2
+wu3 u3
+wu4 u4
+wu5 u5
+wu6 u6
+xi1 x i1
+xi2 x i2
+xi3 x i3
+xi4 x i4
+xi5 x i5
+xi6 x i6
+xia1 x ia1
+xia2 x ia2
+xia3 x ia3
+xia4 x ia4
+xia5 x ia5
+xia6 x ia6
+xian1 x ian1
+xian2 x ian2
+xian3 x ian3
+xian4 x ian4
+xian5 x ian5
+xian6 x ian6
+xiang1 x iang1
+xiang2 x iang2
+xiang3 x iang3
+xiang4 x iang4
+xiang5 x iang5
+xiang6 x iang6
+xiao1 x iao1
+xiao2 x iao2
+xiao3 x iao3
+xiao4 x iao4
+xiao5 x iao5
+xiao6 x iao6
+xie1 x ie1
+xie2 x ie2
+xie3 x ie3
+xie4 x ie4
+xie5 x ie5
+xie6 x ie6
+xin1 x in1
+xin2 x in2
+xin3 x in3
+xin4 x in4
+xin5 x in5
+xin6 x in6
+xing1 x ing1
+xing2 x ing2
+xing3 x ing3
+xing4 x ing4
+xing5 x ing5
+xing6 x ing6
+xiong1 x iong1
+xiong2 x iong2
+xiong3 x iong3
+xiong4 x iong4
+xiong5 x iong5
+xiong6 x iong6
+xiu1 x iu1
+xiu2 x iu2
+xiu3 x iu3
+xiu4 x iu4
+xiu5 x iu5
+xiu6 x iu6
+xu1 x u1
+xu2 x u2
+xu3 x u3
+xu4 x u4
+xu5 x u5
+xu6 x u6
+xuan1 x uan1
+xuan2 x uan2
+xuan3 x uan3
+xuan4 x uan4
+xuan5 x uan5
+xuan6 x uan6
+xue1 x ue1
+xue2 x ue2
+xue3 x ue3
+xue4 x ue4
+xue5 x ue5
+xue6 x ue6
+xun1 x un1
+xun2 x un2
+xun3 x un3
+xun4 x un4
+xun5 x un5
+xun6 x un6
+ya1 ia1
+ya2 ia2
+ya3 ia3
+ya4 ia4
+ya5 ia5
+ya6 ia6
+yai1 y ai1
+yai2 y ai2
+yai3 y ai3
+yai4 y ai4
+yai5 y ai5
+yai6 y ai6
+yan1 ian1
+yan2 ian2
+yan3 ian3
+yan4 ian4
+yan5 ian5
+yan6 ian6
+yang1 iang1
+yang2 iang2
+yang3 iang3
+yang4 iang4
+yang5 iang5
+yang6 iang6
+yao1 iao1
+yao2 iao2
+yao3 iao3
+yao4 iao4
+yao5 iao5
+yao6 iao6
+ye1 ie1
+ye2 ie2
+ye3 ie3
+ye4 ie4
+ye5 ie5
+ye6 ie6
+yi1 i1
+yi2 i2
+yi3 i3
+yi4 i4
+yi5 i5
+yi6 i6
+yin1 in1
+yin2 in2
+yin3 in3
+yin4 in4
+yin5 in5
+yin6 in6
+ying1 ing1
+ying2 ing2
+ying3 ing3
+ying4 ing4
+ying5 ing5
+ying6 ing6
+yo1 y o1
+yo2 y o2
+yo3 y o3
+yo4 y o4
+yo5 y o5
+yo6 y o6
+yong1 iong1
+yong2 iong2
+yong3 iong3
+yong4 iong4
+yong5 iong5
+yong6 iong6
+you1 iu1
+you2 iu2
+you3 iu3
+you4 iu4
+you5 iu5
+you6 iu6
+yu1 v1
+yu2 v2
+yu3 v3
+yu4 v4
+yu5 v5
+yu6 v6
+yuan1 van1
+yuan2 van2
+yuan3 van3
+yuan4 van4
+yuan5 van5
+yuan6 van6
+yue1 ve1
+yue2 ve2
+yue3 ve3
+yue4 ve4
+yue5 ve5
+yue6 ve6
+yun1 vn1
+yun2 vn2
+yun3 vn3
+yun4 vn4
+yun5 vn5
+yun6 vn6
+za1 z a1
+za2 z a2
+za3 z a3
+za4 z a4
+za5 z a5
+za6 z a6
+zai1 z ai1
+zai2 z ai2
+zai3 z ai3
+zai4 z ai4
+zai5 z ai5
+zai6 z ai6
+zan1 z an1
+zan2 z an2
+zan3 z an3
+zan4 z an4
+zan5 z an5
+zan6 z an6
+zang1 z ang1
+zang2 z ang2
+zang3 z ang3
+zang4 z ang4
+zang5 z ang5
+zang6 z ang6
+zao1 z ao1
+zao2 z ao2
+zao3 z ao3
+zao4 z ao4
+zao5 z ao5
+zao6 z ao6
+ze1 z e1
+ze2 z e2
+ze3 z e3
+ze4 z e4
+ze5 z e5
+ze6 z e6
+zei1 z ei1
+zei2 z ei2
+zei3 z ei3
+zei4 z ei4
+zei5 z ei5
+zei6 z ei6
+zen1 z en1
+zen2 z en2
+zen3 z en3
+zen4 z en4
+zen5 z en5
+zen6 z en6
+zeng1 z eng1
+zeng2 z eng2
+zeng3 z eng3
+zeng4 z eng4
+zeng5 z eng5
+zeng6 z eng6
+zha1 zh a1
+zha2 zh a2
+zha3 zh a3
+zha4 zh a4
+zha5 zh a5
+zha6 zh a6
+zhai1 zh ai1
+zhai2 zh ai2
+zhai3 zh ai3
+zhai4 zh ai4
+zhai5 zh ai5
+zhai6 zh ai6
+zhan1 zh an1
+zhan2 zh an2
+zhan3 zh an3
+zhan4 zh an4
+zhan5 zh an5
+zhan6 zh an6
+zhang1 zh ang1
+zhang2 zh ang2
+zhang3 zh ang3
+zhang4 zh ang4
+zhang5 zh ang5
+zhang6 zh ang6
+zhao1 zh ao1
+zhao2 zh ao2
+zhao3 zh ao3
+zhao4 zh ao4
+zhao5 zh ao5
+zhao6 zh ao6
+zhe1 zh e1
+zhe2 zh e2
+zhe3 zh e3
+zhe4 zh e4
+zhe5 zh e5
+zhe6 zh e6
+zhei1 zh ei1
+zhei2 zh ei2
+zhei3 zh ei3
+zhei4 zh ei4
+zhei5 zh ei5
+zhei6 zh ei6
+zhen1 zh en1
+zhen2 zh en2
+zhen3 zh en3
+zhen4 zh en4
+zhen5 zh en5
+zhen6 zh en6
+zheng1 zh eng1
+zheng2 zh eng2
+zheng3 zh eng3
+zheng4 zh eng4
+zheng5 zh eng5
+zheng6 zh eng6
+zhi1 zh i1
+zhi2 zh i2
+zhi3 zh i3
+zhi4 zh i4
+zhi5 zh i5
+zhi6 zh i6
+zhong1 zh ong1
+zhong2 zh ong2
+zhong3 zh ong3
+zhong4 zh ong4
+zhong5 zh ong5
+zhong6 zh ong6
+zhou1 zh ou1
+zhou2 zh ou2
+zhou3 zh ou3
+zhou4 zh ou4
+zhou5 zh ou5
+zhou6 zh ou6
+zhu1 zh u1
+zhu2 zh u2
+zhu3 zh u3
+zhu4 zh u4
+zhu5 zh u5
+zhu6 zh u6
+zhua1 zh ua1
+zhua2 zh ua2
+zhua3 zh ua3
+zhua4 zh ua4
+zhua5 zh ua5
+zhua6 zh ua6
+zhuai1 zh uai1
+zhuai2 zh uai2
+zhuai3 zh uai3
+zhuai4 zh uai4
+zhuai5 zh uai5
+zhuai6 zh uai6
+zhuan1 zh uan1
+zhuan2 zh uan2
+zhuan3 zh uan3
+zhuan4 zh uan4
+zhuan5 zh uan5
+zhuan6 zh uan6
+zhuang1 zh uang1
+zhuang2 zh uang2
+zhuang3 zh uang3
+zhuang4 zh uang4
+zhuang5 zh uang5
+zhuang6 zh uang6
+zhui1 zh ui1
+zhui2 zh ui2
+zhui3 zh ui3
+zhui4 zh ui4
+zhui5 zh ui5
+zhui6 zh ui6
+zhun1 zh un1
+zhun2 zh un2
+zhun3 zh un3
+zhun4 zh un4
+zhun5 zh un5
+zhun6 zh un6
+zhuo1 zh uo1
+zhuo2 zh uo2
+zhuo3 zh uo3
+zhuo4 zh uo4
+zhuo5 zh uo5
+zhuo6 zh uo6
+zi1 z i1
+zi2 z i2
+zi3 z i3
+zi4 z i4
+zi5 z i5
+zi6 z i6
+zong1 z ong1
+zong2 z ong2
+zong3 z ong3
+zong4 z ong4
+zong5 z ong5
+zong6 z ong6
+zou1 z ou1
+zou2 z ou2
+zou3 z ou3
+zou4 z ou4
+zou5 z ou5
+zou6 z ou6
+zu1 z u1
+zu2 z u2
+zu3 z u3
+zu4 z u4
+zu5 z u5
+zu6 z u6
+zuan1 z uan1
+zuan2 z uan2
+zuan3 z uan3
+zuan4 z uan4
+zuan5 z uan5
+zuan6 z uan6
+zui1 z ui1
+zui2 z ui2
+zui3 z ui3
+zui4 z ui4
+zui5 z ui5
+zui6 z ui6
+zun1 z un1
+zun2 z un2
+zun3 z un3
+zun4 z un4
+zun5 z un5
+zun6 z un6
+zuo1 z uo1
+zuo2 z uo2
+zuo3 z uo3
+zuo4 z uo4
+zuo5 z uo5
+zuo6 z uo6
+a1r' a1 r'
+a2r' a2 r'
+a3r' a3 r'
+a4r' a4 r'
+a5r' a5 r'
+a6r' a6 r'
+ai1r' ai1 r'
+ai2r' ai2 r'
+ai3r' ai3 r'
+ai4r' ai4 r'
+ai5r' ai5 r'
+ai6r' ai6 r'
+an1r' an1 r'
+an2r' an2 r'
+an3r' an3 r'
+an4r' an4 r'
+an5r' an5 r'
+an6r' an6 r'
+ang1r' ang1 r'
+ang2r' ang2 r'
+ang3r' ang3 r'
+ang4r' ang4 r'
+ang5r' ang5 r'
+ang6r' ang6 r'
+ao1r' ao1 r'
+ao2r' ao2 r'
+ao3r' ao3 r'
+ao4r' ao4 r'
+ao5r' ao5 r'
+ao6r' ao6 r'
+ba1r' b a1 r'
+ba2r' b a2 r'
+ba3r' b a3 r'
+ba4r' b a4 r'
+ba5r' b a5 r'
+ba6r' b a6 r'
+bai1r' b ai1 r'
+bai2r' b ai2 r'
+bai3r' b ai3 r'
+bai4r' b ai4 r'
+bai5r' b ai5 r'
+bai6r' b ai6 r'
+ban1r' b an1 r'
+ban2r' b an2 r'
+ban3r' b an3 r'
+ban4r' b an4 r'
+ban5r' b an5 r'
+ban6r' b an6 r'
+bang1r' b ang1 r'
+bang2r' b ang2 r'
+bang3r' b ang3 r'
+bang4r' b ang4 r'
+bang5r' b ang5 r'
+bang6r' b ang6 r'
+bao1r' b ao1 r'
+bao2r' b ao2 r'
+bao3r' b ao3 r'
+bao4r' b ao4 r'
+bao5r' b ao5 r'
+bao6r' b ao6 r'
+bei1r' b ei1 r'
+bei2r' b ei2 r'
+bei3r' b ei3 r'
+bei4r' b ei4 r'
+bei5r' b ei5 r'
+bei6r' b ei6 r'
+ben1r' b en1 r'
+ben2r' b en2 r'
+ben3r' b en3 r'
+ben4r' b en4 r'
+ben5r' b en5 r'
+ben6r' b en6 r'
+beng1r' b eng1 r'
+beng2r' b eng2 r'
+beng3r' b eng3 r'
+beng4r' b eng4 r'
+beng5r' b eng5 r'
+beng6r' b eng6 r'
+bi1r' b i1 r'
+bi2r' b i2 r'
+bi3r' b i3 r'
+bi4r' b i4 r'
+bi5r' b i5 r'
+bi6r' b i6 r'
+bian1r' b ian1 r'
+bian2r' b ian2 r'
+bian3r' b ian3 r'
+bian4r' b ian4 r'
+bian5r' b ian5 r'
+bian6r' b ian6 r'
+biao1r' b iao1 r'
+biao2r' b iao2 r'
+biao3r' b iao3 r'
+biao4r' b iao4 r'
+biao5r' b iao5 r'
+biao6r' b iao6 r'
+bie1r' b ie1 r'
+bie2r' b ie2 r'
+bie3r' b ie3 r'
+bie4r' b ie4 r'
+bie5r' b ie5 r'
+bie6r' b ie6 r'
+bin1r' b in1 r'
+bin2r' b in2 r'
+bin3r' b in3 r'
+bin4r' b in4 r'
+bin5r' b in5 r'
+bin6r' b in6 r'
+bing1r' b ing1 r'
+bing2r' b ing2 r'
+bing3r' b ing3 r'
+bing4r' b ing4 r'
+bing5r' b ing5 r'
+bing6r' b ing6 r'
+bo1r' b o1 r'
+bo2r' b o2 r'
+bo3r' b o3 r'
+bo4r' b o4 r'
+bo5r' b o5 r'
+bo6r' b o6 r'
+bu1r' b u1 r'
+bu2r' b u2 r'
+bu3r' b u3 r'
+bu4r' b u4 r'
+bu5r' b u5 r'
+bu6r' b u6 r'
+ca1r' c a1 r'
+ca2r' c a2 r'
+ca3r' c a3 r'
+ca4r' c a4 r'
+ca5r' c a5 r'
+ca6r' c a6 r'
+cai1r' c ai1 r'
+cai2r' c ai2 r'
+cai3r' c ai3 r'
+cai4r' c ai4 r'
+cai5r' c ai5 r'
+cai6r' c ai6 r'
+can1r' c an1 r'
+can2r' c an2 r'
+can3r' c an3 r'
+can4r' c an4 r'
+can5r' c an5 r'
+can6r' c an6 r'
+cang1r' c ang1 r'
+cang2r' c ang2 r'
+cang3r' c ang3 r'
+cang4r' c ang4 r'
+cang5r' c ang5 r'
+cang6r' c ang6 r'
+cao1r' c ao1 r'
+cao2r' c ao2 r'
+cao3r' c ao3 r'
+cao4r' c ao4 r'
+cao5r' c ao5 r'
+cao6r' c ao6 r'
+ce1r' c e1 r'
+ce2r' c e2 r'
+ce3r' c e3 r'
+ce4r' c e4 r'
+ce5r' c e5 r'
+ce6r' c e6 r'
+cen1r' c en1 r'
+cen2r' c en2 r'
+cen3r' c en3 r'
+cen4r' c en4 r'
+cen5r' c en5 r'
+cen6r' c en6 r'
+ceng1r' c eng1 r'
+ceng2r' c eng2 r'
+ceng3r' c eng3 r'
+ceng4r' c eng4 r'
+ceng5r' c eng5 r'
+ceng6r' c eng6 r'
+cha1r' ch a1 r'
+cha2r' ch a2 r'
+cha3r' ch a3 r'
+cha4r' ch a4 r'
+cha5r' ch a5 r'
+cha6r' ch a6 r'
+chai1r' ch ai1 r'
+chai2r' ch ai2 r'
+chai3r' ch ai3 r'
+chai4r' ch ai4 r'
+chai5r' ch ai5 r'
+chai6r' ch ai6 r'
+chan1r' ch an1 r'
+chan2r' ch an2 r'
+chan3r' ch an3 r'
+chan4r' ch an4 r'
+chan5r' ch an5 r'
+chan6r' ch an6 r'
+chang1r' ch ang1 r'
+chang2r' ch ang2 r'
+chang3r' ch ang3 r'
+chang4r' ch ang4 r'
+chang5r' ch ang5 r'
+chang6r' ch ang6 r'
+chao1r' ch ao1 r'
+chao2r' ch ao2 r'
+chao3r' ch ao3 r'
+chao4r' ch ao4 r'
+chao5r' ch ao5 r'
+chao6r' ch ao6 r'
+che1r' ch e1 r'
+che2r' ch e2 r'
+che3r' ch e3 r'
+che4r' ch e4 r'
+che5r' ch e5 r'
+che6r' ch e6 r'
+chen1r' ch en1 r'
+chen2r' ch en2 r'
+chen3r' ch en3 r'
+chen4r' ch en4 r'
+chen5r' ch en5 r'
+chen6r' ch en6 r'
+cheng1r' ch eng1 r'
+cheng2r' ch eng2 r'
+cheng3r' ch eng3 r'
+cheng4r' ch eng4 r'
+cheng5r' ch eng5 r'
+cheng6r' ch eng6 r'
+chi1r' ch i1 r'
+chi2r' ch i2 r'
+chi3r' ch i3 r'
+chi4r' ch i4 r'
+chi5r' ch i5 r'
+chi6r' ch i6 r'
+chong1r' ch ong1 r'
+chong2r' ch ong2 r'
+chong3r' ch ong3 r'
+chong4r' ch ong4 r'
+chong5r' ch ong5 r'
+chong6r' ch ong6 r'
+chou1r' ch ou1 r'
+chou2r' ch ou2 r'
+chou3r' ch ou3 r'
+chou4r' ch ou4 r'
+chou5r' ch ou5 r'
+chou6r' ch ou6 r'
+chu1r' ch u1 r'
+chu2r' ch u2 r'
+chu3r' ch u3 r'
+chu4r' ch u4 r'
+chu5r' ch u5 r'
+chu6r' ch u6 r'
+chua1r' ch ua1 r'
+chua2r' ch ua2 r'
+chua3r' ch ua3 r'
+chua4r' ch ua4 r'
+chua5r' ch ua5 r'
+chua6r' ch ua6 r'
+chuai1r' ch uai1 r'
+chuai2r' ch uai2 r'
+chuai3r' ch uai3 r'
+chuai4r' ch uai4 r'
+chuai5r' ch uai5 r'
+chuai6r' ch uai6 r'
+chuan1r' ch uan1 r'
+chuan2r' ch uan2 r'
+chuan3r' ch uan3 r'
+chuan4r' ch uan4 r'
+chuan5r' ch uan5 r'
+chuan6r' ch uan6 r'
+chuang1r' ch uang1 r'
+chuang2r' ch uang2 r'
+chuang3r' ch uang3 r'
+chuang4r' ch uang4 r'
+chuang5r' ch uang5 r'
+chuang6r' ch uang6 r'
+chui1r' ch ui1 r'
+chui2r' ch ui2 r'
+chui3r' ch ui3 r'
+chui4r' ch ui4 r'
+chui5r' ch ui5 r'
+chui6r' ch ui6 r'
+chun1r' ch un1 r'
+chun2r' ch un2 r'
+chun3r' ch un3 r'
+chun4r' ch un4 r'
+chun5r' ch un5 r'
+chun6r' ch un6 r'
+chuo1r' ch uo1 r'
+chuo2r' ch uo2 r'
+chuo3r' ch uo3 r'
+chuo4r' ch uo4 r'
+chuo5r' ch uo5 r'
+chuo6r' ch uo6 r'
+ci1r' c i1 r'
+ci2r' c i2 r'
+ci3r' c i3 r'
+ci4r' c i4 r'
+ci5r' c i5 r'
+ci6r' c i6 r'
+cong1r' c ong1 r'
+cong2r' c ong2 r'
+cong3r' c ong3 r'
+cong4r' c ong4 r'
+cong5r' c ong5 r'
+cong6r' c ong6 r'
+cou1r' c ou1 r'
+cou2r' c ou2 r'
+cou3r' c ou3 r'
+cou4r' c ou4 r'
+cou5r' c ou5 r'
+cou6r' c ou6 r'
+cu1r' c u1 r'
+cu2r' c u2 r'
+cu3r' c u3 r'
+cu4r' c u4 r'
+cu5r' c u5 r'
+cu6r' c u6 r'
+cuan1r' c uan1 r'
+cuan2r' c uan2 r'
+cuan3r' c uan3 r'
+cuan4r' c uan4 r'
+cuan5r' c uan5 r'
+cuan6r' c uan6 r'
+cui1r' c ui1 r'
+cui2r' c ui2 r'
+cui3r' c ui3 r'
+cui4r' c ui4 r'
+cui5r' c ui5 r'
+cui6r' c ui6 r'
+cun1r' c un1 r'
+cun2r' c un2 r'
+cun3r' c un3 r'
+cun4r' c un4 r'
+cun5r' c un5 r'
+cun6r' c un6 r'
+cuo1r' c uo1 r'
+cuo2r' c uo2 r'
+cuo3r' c uo3 r'
+cuo4r' c uo4 r'
+cuo5r' c uo5 r'
+cuo6r' c uo6 r'
+da1r' d a1 r'
+da2r' d a2 r'
+da3r' d a3 r'
+da4r' d a4 r'
+da5r' d a5 r'
+da6r' d a6 r'
+dai1r' d ai1 r'
+dai2r' d ai2 r'
+dai3r' d ai3 r'
+dai4r' d ai4 r'
+dai5r' d ai5 r'
+dai6r' d ai6 r'
+dan1r' d an1 r'
+dan2r' d an2 r'
+dan3r' d an3 r'
+dan4r' d an4 r'
+dan5r' d an5 r'
+dan6r' d an6 r'
+dang1r' d ang1 r'
+dang2r' d ang2 r'
+dang3r' d ang3 r'
+dang4r' d ang4 r'
+dang5r' d ang5 r'
+dang6r' d ang6 r'
+dao1r' d ao1 r'
+dao2r' d ao2 r'
+dao3r' d ao3 r'
+dao4r' d ao4 r'
+dao5r' d ao5 r'
+dao6r' d ao6 r'
+de1r' d e1 r'
+de2r' d e2 r'
+de3r' d e3 r'
+de4r' d e4 r'
+de5r' d e5 r'
+de6r' d e6 r'
+dei1r' d ei1 r'
+dei2r' d ei2 r'
+dei3r' d ei3 r'
+dei4r' d ei4 r'
+dei5r' d ei5 r'
+dei6r' d ei6 r'
+den1r' d en1 r'
+den2r' d en2 r'
+den3r' d en3 r'
+den4r' d en4 r'
+den5r' d en5 r'
+den6r' d en6 r'
+deng1r' d eng1 r'
+deng2r' d eng2 r'
+deng3r' d eng3 r'
+deng4r' d eng4 r'
+deng5r' d eng5 r'
+deng6r' d eng6 r'
+di1r' d i1 r'
+di2r' d i2 r'
+di3r' d i3 r'
+di4r' d i4 r'
+di5r' d i5 r'
+di6r' d i6 r'
+dia1r' d ia1 r'
+dia2r' d ia2 r'
+dia3r' d ia3 r'
+dia4r' d ia4 r'
+dia5r' d ia5 r'
+dia6r' d ia6 r'
+dian1r' d ian1 r'
+dian2r' d ian2 r'
+dian3r' d ian3 r'
+dian4r' d ian4 r'
+dian5r' d ian5 r'
+dian6r' d ian6 r'
+diang1r' d iang1 r'
+diang2r' d iang2 r'
+diang3r' d iang3 r'
+diang4r' d iang4 r'
+diang5r' d iang5 r'
+diang6r' d iang6 r'
+diao1r' d iao1 r'
+diao2r' d iao2 r'
+diao3r' d iao3 r'
+diao4r' d iao4 r'
+diao5r' d iao5 r'
+diao6r' d iao6 r'
+die1r' d ie1 r'
+die2r' d ie2 r'
+die3r' d ie3 r'
+die4r' d ie4 r'
+die5r' d ie5 r'
+die6r' d ie6 r'
+ding1r' d ing1 r'
+ding2r' d ing2 r'
+ding3r' d ing3 r'
+ding4r' d ing4 r'
+ding5r' d ing5 r'
+ding6r' d ing6 r'
+diu1r' d iu1 r'
+diu2r' d iu2 r'
+diu3r' d iu3 r'
+diu4r' d iu4 r'
+diu5r' d iu5 r'
+diu6r' d iu6 r'
+dong1r' d ong1 r'
+dong2r' d ong2 r'
+dong3r' d ong3 r'
+dong4r' d ong4 r'
+dong5r' d ong5 r'
+dong6r' d ong6 r'
+dou1r' d ou1 r'
+dou2r' d ou2 r'
+dou3r' d ou3 r'
+dou4r' d ou4 r'
+dou5r' d ou5 r'
+dou6r' d ou6 r'
+du1r' d u1 r'
+du2r' d u2 r'
+du3r' d u3 r'
+du4r' d u4 r'
+du5r' d u5 r'
+du6r' d u6 r'
+duan1r' d uan1 r'
+duan2r' d uan2 r'
+duan3r' d uan3 r'
+duan4r' d uan4 r'
+duan5r' d uan5 r'
+duan6r' d uan6 r'
+dui1r' d ui1 r'
+dui2r' d ui2 r'
+dui3r' d ui3 r'
+dui4r' d ui4 r'
+dui5r' d ui5 r'
+dui6r' d ui6 r'
+dun1r' d un1 r'
+dun2r' d un2 r'
+dun3r' d un3 r'
+dun4r' d un4 r'
+dun5r' d un5 r'
+dun6r' d un6 r'
+duo1r' d uo1 r'
+duo2r' d uo2 r'
+duo3r' d uo3 r'
+duo4r' d uo4 r'
+duo5r' d uo5 r'
+duo6r' d uo6 r'
+e1r' e1 r'
+e2r' e2 r'
+e3r' e3 r'
+e4r' e4 r'
+e5r' e5 r'
+e6r' e6 r'
+ei1r' ei1 r'
+ei2r' ei2 r'
+ei3r' ei3 r'
+ei4r' ei4 r'
+ei5r' ei5 r'
+ei6r' ei6 r'
+en1r' en1 r'
+en2r' en2 r'
+en3r' en3 r'
+en4r' en4 r'
+en5r' en5 r'
+en6r' en6 r'
+eng1r' eng1 r'
+eng2r' eng2 r'
+eng3r' eng3 r'
+eng4r' eng4 r'
+eng5r' eng5 r'
+eng6r' eng6 r'
+fa1r' f a1 r'
+fa2r' f a2 r'
+fa3r' f a3 r'
+fa4r' f a4 r'
+fa5r' f a5 r'
+fa6r' f a6 r'
+fan1r' f an1 r'
+fan2r' f an2 r'
+fan3r' f an3 r'
+fan4r' f an4 r'
+fan5r' f an5 r'
+fan6r' f an6 r'
+fang1r' f ang1 r'
+fang2r' f ang2 r'
+fang3r' f ang3 r'
+fang4r' f ang4 r'
+fang5r' f ang5 r'
+fang6r' f ang6 r'
+fei1r' f ei1 r'
+fei2r' f ei2 r'
+fei3r' f ei3 r'
+fei4r' f ei4 r'
+fei5r' f ei5 r'
+fei6r' f ei6 r'
+fen1r' f en1 r'
+fen2r' f en2 r'
+fen3r' f en3 r'
+fen4r' f en4 r'
+fen5r' f en5 r'
+fen6r' f en6 r'
+feng1r' f eng1 r'
+feng2r' f eng2 r'
+feng3r' f eng3 r'
+feng4r' f eng4 r'
+feng5r' f eng5 r'
+feng6r' f eng6 r'
+fiao1r' f iao1 r'
+fiao2r' f iao2 r'
+fiao3r' f iao3 r'
+fiao4r' f iao4 r'
+fiao5r' f iao5 r'
+fiao6r' f iao6 r'
+fo1r' f o1 r'
+fo2r' f o2 r'
+fo3r' f o3 r'
+fo4r' f o4 r'
+fo5r' f o5 r'
+fo6r' f o6 r'
+fou1r' f ou1 r'
+fou2r' f ou2 r'
+fou3r' f ou3 r'
+fou4r' f ou4 r'
+fou5r' f ou5 r'
+fou6r' f ou6 r'
+fu1r' f u1 r'
+fu2r' f u2 r'
+fu3r' f u3 r'
+fu4r' f u4 r'
+fu5r' f u5 r'
+fu6r' f u6 r'
+ga1r' g a1 r'
+ga2r' g a2 r'
+ga3r' g a3 r'
+ga4r' g a4 r'
+ga5r' g a5 r'
+ga6r' g a6 r'
+gai1r' g ai1 r'
+gai2r' g ai2 r'
+gai3r' g ai3 r'
+gai4r' g ai4 r'
+gai5r' g ai5 r'
+gai6r' g ai6 r'
+gan1r' g an1 r'
+gan2r' g an2 r'
+gan3r' g an3 r'
+gan4r' g an4 r'
+gan5r' g an5 r'
+gan6r' g an6 r'
+gang1r' g ang1 r'
+gang2r' g ang2 r'
+gang3r' g ang3 r'
+gang4r' g ang4 r'
+gang5r' g ang5 r'
+gang6r' g ang6 r'
+gao1r' g ao1 r'
+gao2r' g ao2 r'
+gao3r' g ao3 r'
+gao4r' g ao4 r'
+gao5r' g ao5 r'
+gao6r' g ao6 r'
+ge1r' g e1 r'
+ge2r' g e2 r'
+ge3r' g e3 r'
+ge4r' g e4 r'
+ge5r' g e5 r'
+ge6r' g e6 r'
+gei1r' g ei1 r'
+gei2r' g ei2 r'
+gei3r' g ei3 r'
+gei4r' g ei4 r'
+gei5r' g ei5 r'
+gei6r' g ei6 r'
+gen1r' g en1 r'
+gen2r' g en2 r'
+gen3r' g en3 r'
+gen4r' g en4 r'
+gen5r' g en5 r'
+gen6r' g en6 r'
+geng1r' g eng1 r'
+geng2r' g eng2 r'
+geng3r' g eng3 r'
+geng4r' g eng4 r'
+geng5r' g eng5 r'
+geng6r' g eng6 r'
+gong1r' g ong1 r'
+gong2r' g ong2 r'
+gong3r' g ong3 r'
+gong4r' g ong4 r'
+gong5r' g ong5 r'
+gong6r' g ong6 r'
+gou1r' g ou1 r'
+gou2r' g ou2 r'
+gou3r' g ou3 r'
+gou4r' g ou4 r'
+gou5r' g ou5 r'
+gou6r' g ou6 r'
+gu1r' g u1 r'
+gu2r' g u2 r'
+gu3r' g u3 r'
+gu4r' g u4 r'
+gu5r' g u5 r'
+gu6r' g u6 r'
+gua1r' g ua1 r'
+gua2r' g ua2 r'
+gua3r' g ua3 r'
+gua4r' g ua4 r'
+gua5r' g ua5 r'
+gua6r' g ua6 r'
+guai1r' g uai1 r'
+guai2r' g uai2 r'
+guai3r' g uai3 r'
+guai4r' g uai4 r'
+guai5r' g uai5 r'
+guai6r' g uai6 r'
+guan1r' g uan1 r'
+guan2r' g uan2 r'
+guan3r' g uan3 r'
+guan4r' g uan4 r'
+guan5r' g uan5 r'
+guan6r' g uan6 r'
+guang1r' g uang1 r'
+guang2r' g uang2 r'
+guang3r' g uang3 r'
+guang4r' g uang4 r'
+guang5r' g uang5 r'
+guang6r' g uang6 r'
+gui1r' g ui1 r'
+gui2r' g ui2 r'
+gui3r' g ui3 r'
+gui4r' g ui4 r'
+gui5r' g ui5 r'
+gui6r' g ui6 r'
+gun1r' g un1 r'
+gun2r' g un2 r'
+gun3r' g un3 r'
+gun4r' g un4 r'
+gun5r' g un5 r'
+gun6r' g un6 r'
+guo1r' g uo1 r'
+guo2r' g uo2 r'
+guo3r' g uo3 r'
+guo4r' g uo4 r'
+guo5r' g uo5 r'
+guo6r' g uo6 r'
+ha1r' h a1 r'
+ha2r' h a2 r'
+ha3r' h a3 r'
+ha4r' h a4 r'
+ha5r' h a5 r'
+ha6r' h a6 r'
+hai1r' h ai1 r'
+hai2r' h ai2 r'
+hai3r' h ai3 r'
+hai4r' h ai4 r'
+hai5r' h ai5 r'
+hai6r' h ai6 r'
+han1r' h an1 r'
+han2r' h an2 r'
+han3r' h an3 r'
+han4r' h an4 r'
+han5r' h an5 r'
+han6r' h an6 r'
+hang1r' h ang1 r'
+hang2r' h ang2 r'
+hang3r' h ang3 r'
+hang4r' h ang4 r'
+hang5r' h ang5 r'
+hang6r' h ang6 r'
+hao1r' h ao1 r'
+hao2r' h ao2 r'
+hao3r' h ao3 r'
+hao4r' h ao4 r'
+hao5r' h ao5 r'
+hao6r' h ao6 r'
+he1r' h e1 r'
+he2r' h e2 r'
+he3r' h e3 r'
+he4r' h e4 r'
+he5r' h e5 r'
+he6r' h e6 r'
+hei1r' h ei1 r'
+hei2r' h ei2 r'
+hei3r' h ei3 r'
+hei4r' h ei4 r'
+hei5r' h ei5 r'
+hei6r' h ei6 r'
+hen1r' h en1 r'
+hen2r' h en2 r'
+hen3r' h en3 r'
+hen4r' h en4 r'
+hen5r' h en5 r'
+hen6r' h en6 r'
+heng1r' h eng1 r'
+heng2r' h eng2 r'
+heng3r' h eng3 r'
+heng4r' h eng4 r'
+heng5r' h eng5 r'
+heng6r' h eng6 r'
+ho1r' h o1 r'
+ho2r' h o2 r'
+ho3r' h o3 r'
+ho4r' h o4 r'
+ho5r' h o5 r'
+ho6r' h o6 r'
+hong1r' h ong1 r'
+hong2r' h ong2 r'
+hong3r' h ong3 r'
+hong4r' h ong4 r'
+hong5r' h ong5 r'
+hong6r' h ong6 r'
+hou1r' h ou1 r'
+hou2r' h ou2 r'
+hou3r' h ou3 r'
+hou4r' h ou4 r'
+hou5r' h ou5 r'
+hou6r' h ou6 r'
+hu1r' h u1 r'
+hu2r' h u2 r'
+hu3r' h u3 r'
+hu4r' h u4 r'
+hu5r' h u5 r'
+hu6r' h u6 r'
+hua1r' h ua1 r'
+hua2r' h ua2 r'
+hua3r' h ua3 r'
+hua4r' h ua4 r'
+hua5r' h ua5 r'
+hua6r' h ua6 r'
+huai1r' h uai1 r'
+huai2r' h uai2 r'
+huai3r' h uai3 r'
+huai4r' h uai4 r'
+huai5r' h uai5 r'
+huai6r' h uai6 r'
+huan1r' h uan1 r'
+huan2r' h uan2 r'
+huan3r' h uan3 r'
+huan4r' h uan4 r'
+huan5r' h uan5 r'
+huan6r' h uan6 r'
+huang1r' h uang1 r'
+huang2r' h uang2 r'
+huang3r' h uang3 r'
+huang4r' h uang4 r'
+huang5r' h uang5 r'
+huang6r' h uang6 r'
+hui1r' h ui1 r'
+hui2r' h ui2 r'
+hui3r' h ui3 r'
+hui4r' h ui4 r'
+hui5r' h ui5 r'
+hui6r' h ui6 r'
+hun1r' h un1 r'
+hun2r' h un2 r'
+hun3r' h un3 r'
+hun4r' h un4 r'
+hun5r' h un5 r'
+hun6r' h un6 r'
+huo1r' h uo1 r'
+huo2r' h uo2 r'
+huo3r' h uo3 r'
+huo4r' h uo4 r'
+huo5r' h uo5 r'
+huo6r' h uo6 r'
+ji1r' j i1 r'
+ji2r' j i2 r'
+ji3r' j i3 r'
+ji4r' j i4 r'
+ji5r' j i5 r'
+ji6r' j i6 r'
+jia1r' j ia1 r'
+jia2r' j ia2 r'
+jia3r' j ia3 r'
+jia4r' j ia4 r'
+jia5r' j ia5 r'
+jia6r' j ia6 r'
+jian1r' j ian1 r'
+jian2r' j ian2 r'
+jian3r' j ian3 r'
+jian4r' j ian4 r'
+jian5r' j ian5 r'
+jian6r' j ian6 r'
+jiang1r' j iang1 r'
+jiang2r' j iang2 r'
+jiang3r' j iang3 r'
+jiang4r' j iang4 r'
+jiang5r' j iang5 r'
+jiang6r' j iang6 r'
+jiao1r' j iao1 r'
+jiao2r' j iao2 r'
+jiao3r' j iao3 r'
+jiao4r' j iao4 r'
+jiao5r' j iao5 r'
+jiao6r' j iao6 r'
+jie1r' j ie1 r'
+jie2r' j ie2 r'
+jie3r' j ie3 r'
+jie4r' j ie4 r'
+jie5r' j ie5 r'
+jie6r' j ie6 r'
+jin1r' j in1 r'
+jin2r' j in2 r'
+jin3r' j in3 r'
+jin4r' j in4 r'
+jin5r' j in5 r'
+jin6r' j in6 r'
+jing1r' j ing1 r'
+jing2r' j ing2 r'
+jing3r' j ing3 r'
+jing4r' j ing4 r'
+jing5r' j ing5 r'
+jing6r' j ing6 r'
+jiong1r' j iong1 r'
+jiong2r' j iong2 r'
+jiong3r' j iong3 r'
+jiong4r' j iong4 r'
+jiong5r' j iong5 r'
+jiong6r' j iong6 r'
+jiu1r' j iu1 r'
+jiu2r' j iu2 r'
+jiu3r' j iu3 r'
+jiu4r' j iu4 r'
+jiu5r' j iu5 r'
+jiu6r' j iu6 r'
+ju1r' j u1 r'
+ju2r' j u2 r'
+ju3r' j u3 r'
+ju4r' j u4 r'
+ju5r' j u5 r'
+ju6r' j u6 r'
+juan1r' j uan1 r'
+juan2r' j uan2 r'
+juan3r' j uan3 r'
+juan4r' j uan4 r'
+juan5r' j uan5 r'
+juan6r' j uan6 r'
+jue1r' j ue1 r'
+jue2r' j ue2 r'
+jue3r' j ue3 r'
+jue4r' j ue4 r'
+jue5r' j ue5 r'
+jue6r' j ue6 r'
+jun1r' j un1 r'
+jun2r' j un2 r'
+jun3r' j un3 r'
+jun4r' j un4 r'
+jun5r' j un5 r'
+jun6r' j un6 r'
+ka1r' k a1 r'
+ka2r' k a2 r'
+ka3r' k a3 r'
+ka4r' k a4 r'
+ka5r' k a5 r'
+ka6r' k a6 r'
+kai1r' k ai1 r'
+kai2r' k ai2 r'
+kai3r' k ai3 r'
+kai4r' k ai4 r'
+kai5r' k ai5 r'
+kai6r' k ai6 r'
+kan1r' k an1 r'
+kan2r' k an2 r'
+kan3r' k an3 r'
+kan4r' k an4 r'
+kan5r' k an5 r'
+kan6r' k an6 r'
+kang1r' k ang1 r'
+kang2r' k ang2 r'
+kang3r' k ang3 r'
+kang4r' k ang4 r'
+kang5r' k ang5 r'
+kang6r' k ang6 r'
+kao1r' k ao1 r'
+kao2r' k ao2 r'
+kao3r' k ao3 r'
+kao4r' k ao4 r'
+kao5r' k ao5 r'
+kao6r' k ao6 r'
+ke1r' k e1 r'
+ke2r' k e2 r'
+ke3r' k e3 r'
+ke4r' k e4 r'
+ke5r' k e5 r'
+ke6r' k e6 r'
+ken1r' k en1 r'
+ken2r' k en2 r'
+ken3r' k en3 r'
+ken4r' k en4 r'
+ken5r' k en5 r'
+ken6r' k en6 r'
+keng1r' k eng1 r'
+keng2r' k eng2 r'
+keng3r' k eng3 r'
+keng4r' k eng4 r'
+keng5r' k eng5 r'
+keng6r' k eng6 r'
+kong1r' k ong1 r'
+kong2r' k ong2 r'
+kong3r' k ong3 r'
+kong4r' k ong4 r'
+kong5r' k ong5 r'
+kong6r' k ong6 r'
+kou1r' k ou1 r'
+kou2r' k ou2 r'
+kou3r' k ou3 r'
+kou4r' k ou4 r'
+kou5r' k ou5 r'
+kou6r' k ou6 r'
+ku1r' k u1 r'
+ku2r' k u2 r'
+ku3r' k u3 r'
+ku4r' k u4 r'
+ku5r' k u5 r'
+ku6r' k u6 r'
+kua1r' k ua1 r'
+kua2r' k ua2 r'
+kua3r' k ua3 r'
+kua4r' k ua4 r'
+kua5r' k ua5 r'
+kua6r' k ua6 r'
+kuai1r' k uai1 r'
+kuai2r' k uai2 r'
+kuai3r' k uai3 r'
+kuai4r' k uai4 r'
+kuai5r' k uai5 r'
+kuai6r' k uai6 r'
+kuan1r' k uan1 r'
+kuan2r' k uan2 r'
+kuan3r' k uan3 r'
+kuan4r' k uan4 r'
+kuan5r' k uan5 r'
+kuan6r' k uan6 r'
+kuang1r' k uang1 r'
+kuang2r' k uang2 r'
+kuang3r' k uang3 r'
+kuang4r' k uang4 r'
+kuang5r' k uang5 r'
+kuang6r' k uang6 r'
+kui1r' k ui1 r'
+kui2r' k ui2 r'
+kui3r' k ui3 r'
+kui4r' k ui4 r'
+kui5r' k ui5 r'
+kui6r' k ui6 r'
+kun1r' k un1 r'
+kun2r' k un2 r'
+kun3r' k un3 r'
+kun4r' k un4 r'
+kun5r' k un5 r'
+kun6r' k un6 r'
+kuo1r' k uo1 r'
+kuo2r' k uo2 r'
+kuo3r' k uo3 r'
+kuo4r' k uo4 r'
+kuo5r' k uo5 r'
+kuo6r' k uo6 r'
+la1r' l a1 r'
+la2r' l a2 r'
+la3r' l a3 r'
+la4r' l a4 r'
+la5r' l a5 r'
+la6r' l a6 r'
+lai1r' l ai1 r'
+lai2r' l ai2 r'
+lai3r' l ai3 r'
+lai4r' l ai4 r'
+lai5r' l ai5 r'
+lai6r' l ai6 r'
+lan1r' l an1 r'
+lan2r' l an2 r'
+lan3r' l an3 r'
+lan4r' l an4 r'
+lan5r' l an5 r'
+lan6r' l an6 r'
+lang1r' l ang1 r'
+lang2r' l ang2 r'
+lang3r' l ang3 r'
+lang4r' l ang4 r'
+lang5r' l ang5 r'
+lang6r' l ang6 r'
+lao1r' l ao1 r'
+lao2r' l ao2 r'
+lao3r' l ao3 r'
+lao4r' l ao4 r'
+lao5r' l ao5 r'
+lao6r' l ao6 r'
+le1r' l e1 r'
+le2r' l e2 r'
+le3r' l e3 r'
+le4r' l e4 r'
+le5r' l e5 r'
+le6r' l e6 r'
+lei1r' l ei1 r'
+lei2r' l ei2 r'
+lei3r' l ei3 r'
+lei4r' l ei4 r'
+lei5r' l ei5 r'
+lei6r' l ei6 r'
+leng1r' l eng1 r'
+leng2r' l eng2 r'
+leng3r' l eng3 r'
+leng4r' l eng4 r'
+leng5r' l eng5 r'
+leng6r' l eng6 r'
+li1r' l i1 r'
+li2r' l i2 r'
+li3r' l i3 r'
+li4r' l i4 r'
+li5r' l i5 r'
+li6r' l i6 r'
+lia1r' l ia1 r'
+lia2r' l ia2 r'
+lia3r' l ia3 r'
+lia4r' l ia4 r'
+lia5r' l ia5 r'
+lia6r' l ia6 r'
+lian1r' l ian1 r'
+lian2r' l ian2 r'
+lian3r' l ian3 r'
+lian4r' l ian4 r'
+lian5r' l ian5 r'
+lian6r' l ian6 r'
+liang1r' l iang1 r'
+liang2r' l iang2 r'
+liang3r' l iang3 r'
+liang4r' l iang4 r'
+liang5r' l iang5 r'
+liang6r' l iang6 r'
+liao1r' l iao1 r'
+liao2r' l iao2 r'
+liao3r' l iao3 r'
+liao4r' l iao4 r'
+liao5r' l iao5 r'
+liao6r' l iao6 r'
+lie1r' l ie1 r'
+lie2r' l ie2 r'
+lie3r' l ie3 r'
+lie4r' l ie4 r'
+lie5r' l ie5 r'
+lie6r' l ie6 r'
+lin1r' l in1 r'
+lin2r' l in2 r'
+lin3r' l in3 r'
+lin4r' l in4 r'
+lin5r' l in5 r'
+lin6r' l in6 r'
+ling1r' l ing1 r'
+ling2r' l ing2 r'
+ling3r' l ing3 r'
+ling4r' l ing4 r'
+ling5r' l ing5 r'
+ling6r' l ing6 r'
+liu1r' l iu1 r'
+liu2r' l iu2 r'
+liu3r' l iu3 r'
+liu4r' l iu4 r'
+liu5r' l iu5 r'
+liu6r' l iu6 r'
+lo1r' l o1 r'
+lo2r' l o2 r'
+lo3r' l o3 r'
+lo4r' l o4 r'
+lo5r' l o5 r'
+lo6r' l o6 r'
+long1r' l ong1 r'
+long2r' l ong2 r'
+long3r' l ong3 r'
+long4r' l ong4 r'
+long5r' l ong5 r'
+long6r' l ong6 r'
+lou1r' l ou1 r'
+lou2r' l ou2 r'
+lou3r' l ou3 r'
+lou4r' l ou4 r'
+lou5r' l ou5 r'
+lou6r' l ou6 r'
+lu1r' l u1 r'
+lu2r' l u2 r'
+lu3r' l u3 r'
+lu4r' l u4 r'
+lu5r' l u5 r'
+lu6r' l u6 r'
+luan1r' l uan1 r'
+luan2r' l uan2 r'
+luan3r' l uan3 r'
+luan4r' l uan4 r'
+luan5r' l uan5 r'
+luan6r' l uan6 r'
+lun1r' l un1 r'
+lun2r' l un2 r'
+lun3r' l un3 r'
+lun4r' l un4 r'
+lun5r' l un5 r'
+lun6r' l un6 r'
+luo1r' l uo1 r'
+luo2r' l uo2 r'
+luo3r' l uo3 r'
+luo4r' l uo4 r'
+luo5r' l uo5 r'
+luo6r' l uo6 r'
+lv1r' l v1 r'
+lv2r' l v2 r'
+lv3r' l v3 r'
+lv4r' l v4 r'
+lv5r' l v5 r'
+lv6r' l v6 r'
+lue1r' l ue1 r'
+lue2r' l ue2 r'
+lue3r' l ue3 r'
+lue4r' l ue4 r'
+lue5r' l ue5 r'
+lue6r' l ue6 r'
+lve1r' l ve1 r'
+lve2r' l ve2 r'
+lve3r' l ve3 r'
+lve4r' l ve4 r'
+lve5r' l ve5 r'
+lve6r' l ve6 r'
+ma1r' m a1 r'
+ma2r' m a2 r'
+ma3r' m a3 r'
+ma4r' m a4 r'
+ma5r' m a5 r'
+ma6r' m a6 r'
+mai1r' m ai1 r'
+mai2r' m ai2 r'
+mai3r' m ai3 r'
+mai4r' m ai4 r'
+mai5r' m ai5 r'
+mai6r' m ai6 r'
+man1r' m an1 r'
+man2r' m an2 r'
+man3r' m an3 r'
+man4r' m an4 r'
+man5r' m an5 r'
+man6r' m an6 r'
+mang1r' m ang1 r'
+mang2r' m ang2 r'
+mang3r' m ang3 r'
+mang4r' m ang4 r'
+mang5r' m ang5 r'
+mang6r' m ang6 r'
+mao1r' m ao1 r'
+mao2r' m ao2 r'
+mao3r' m ao3 r'
+mao4r' m ao4 r'
+mao5r' m ao5 r'
+mao6r' m ao6 r'
+me1r' m e1 r'
+me2r' m e2 r'
+me3r' m e3 r'
+me4r' m e4 r'
+me5r' m e5 r'
+me6r' m e6 r'
+mei1r' m ei1 r'
+mei2r' m ei2 r'
+mei3r' m ei3 r'
+mei4r' m ei4 r'
+mei5r' m ei5 r'
+mei6r' m ei6 r'
+men1r' m en1 r'
+men2r' m en2 r'
+men3r' m en3 r'
+men4r' m en4 r'
+men5r' m en5 r'
+men6r' m en6 r'
+meng1r' m eng1 r'
+meng2r' m eng2 r'
+meng3r' m eng3 r'
+meng4r' m eng4 r'
+meng5r' m eng5 r'
+meng6r' m eng6 r'
+mi1r' m i1 r'
+mi2r' m i2 r'
+mi3r' m i3 r'
+mi4r' m i4 r'
+mi5r' m i5 r'
+mi6r' m i6 r'
+mian1r' m ian1 r'
+mian2r' m ian2 r'
+mian3r' m ian3 r'
+mian4r' m ian4 r'
+mian5r' m ian5 r'
+mian6r' m ian6 r'
+miao1r' m iao1 r'
+miao2r' m iao2 r'
+miao3r' m iao3 r'
+miao4r' m iao4 r'
+miao5r' m iao5 r'
+miao6r' m iao6 r'
+mie1r' m ie1 r'
+mie2r' m ie2 r'
+mie3r' m ie3 r'
+mie4r' m ie4 r'
+mie5r' m ie5 r'
+mie6r' m ie6 r'
+min1r' m in1 r'
+min2r' m in2 r'
+min3r' m in3 r'
+min4r' m in4 r'
+min5r' m in5 r'
+min6r' m in6 r'
+ming1r' m ing1 r'
+ming2r' m ing2 r'
+ming3r' m ing3 r'
+ming4r' m ing4 r'
+ming5r' m ing5 r'
+ming6r' m ing6 r'
+miu1r' m iu1 r'
+miu2r' m iu2 r'
+miu3r' m iu3 r'
+miu4r' m iu4 r'
+miu5r' m iu5 r'
+miu6r' m iu6 r'
+mo1r' m o1 r'
+mo2r' m o2 r'
+mo3r' m o3 r'
+mo4r' m o4 r'
+mo5r' m o5 r'
+mo6r' m o6 r'
+mou1r' m ou1 r'
+mou2r' m ou2 r'
+mou3r' m ou3 r'
+mou4r' m ou4 r'
+mou5r' m ou5 r'
+mou6r' m ou6 r'
+mu1r' m u1 r'
+mu2r' m u2 r'
+mu3r' m u3 r'
+mu4r' m u4 r'
+mu5r' m u5 r'
+mu6r' m u6 r'
+na1r' n a1 r'
+na2r' n a2 r'
+na3r' n a3 r'
+na4r' n a4 r'
+na5r' n a5 r'
+na6r' n a6 r'
+nai1r' n ai1 r'
+nai2r' n ai2 r'
+nai3r' n ai3 r'
+nai4r' n ai4 r'
+nai5r' n ai5 r'
+nai6r' n ai6 r'
+nan1r' n an1 r'
+nan2r' n an2 r'
+nan3r' n an3 r'
+nan4r' n an4 r'
+nan5r' n an5 r'
+nan6r' n an6 r'
+nang1r' n ang1 r'
+nang2r' n ang2 r'
+nang3r' n ang3 r'
+nang4r' n ang4 r'
+nang5r' n ang5 r'
+nang6r' n ang6 r'
+nao1r' n ao1 r'
+nao2r' n ao2 r'
+nao3r' n ao3 r'
+nao4r' n ao4 r'
+nao5r' n ao5 r'
+nao6r' n ao6 r'
+ne1r' n e1 r'
+ne2r' n e2 r'
+ne3r' n e3 r'
+ne4r' n e4 r'
+ne5r' n e5 r'
+ne6r' n e6 r'
+nei1r' n ei1 r'
+nei2r' n ei2 r'
+nei3r' n ei3 r'
+nei4r' n ei4 r'
+nei5r' n ei5 r'
+nei6r' n ei6 r'
+nen1r' n en1 r'
+nen2r' n en2 r'
+nen3r' n en3 r'
+nen4r' n en4 r'
+nen5r' n en5 r'
+nen6r' n en6 r'
+neng1r' n eng1 r'
+neng2r' n eng2 r'
+neng3r' n eng3 r'
+neng4r' n eng4 r'
+neng5r' n eng5 r'
+neng6r' n eng6 r'
+ni1r' n i1 r'
+ni2r' n i2 r'
+ni3r' n i3 r'
+ni4r' n i4 r'
+ni5r' n i5 r'
+ni6r' n i6 r'
+nian1r' n ian1 r'
+nian2r' n ian2 r'
+nian3r' n ian3 r'
+nian4r' n ian4 r'
+nian5r' n ian5 r'
+nian6r' n ian6 r'
+niang1r' n iang1 r'
+niang2r' n iang2 r'
+niang3r' n iang3 r'
+niang4r' n iang4 r'
+niang5r' n iang5 r'
+niang6r' n iang6 r'
+niao1r' n iao1 r'
+niao2r' n iao2 r'
+niao3r' n iao3 r'
+niao4r' n iao4 r'
+niao5r' n iao5 r'
+niao6r' n iao6 r'
+nie1r' n ie1 r'
+nie2r' n ie2 r'
+nie3r' n ie3 r'
+nie4r' n ie4 r'
+nie5r' n ie5 r'
+nie6r' n ie6 r'
+nin1r' n in1 r'
+nin2r' n in2 r'
+nin3r' n in3 r'
+nin4r' n in4 r'
+nin5r' n in5 r'
+nin6r' n in6 r'
+ning1r' n ing1 r'
+ning2r' n ing2 r'
+ning3r' n ing3 r'
+ning4r' n ing4 r'
+ning5r' n ing5 r'
+ning6r' n ing6 r'
+niu1r' n iu1 r'
+niu2r' n iu2 r'
+niu3r' n iu3 r'
+niu4r' n iu4 r'
+niu5r' n iu5 r'
+niu6r' n iu6 r'
+nong1r' n ong1 r'
+nong2r' n ong2 r'
+nong3r' n ong3 r'
+nong4r' n ong4 r'
+nong5r' n ong5 r'
+nong6r' n ong6 r'
+nou1r' n ou1 r'
+nou2r' n ou2 r'
+nou3r' n ou3 r'
+nou4r' n ou4 r'
+nou5r' n ou5 r'
+nou6r' n ou6 r'
+nu1r' n u1 r'
+nu2r' n u2 r'
+nu3r' n u3 r'
+nu4r' n u4 r'
+nu5r' n u5 r'
+nu6r' n u6 r'
+nuan1r' n uan1 r'
+nuan2r' n uan2 r'
+nuan3r' n uan3 r'
+nuan4r' n uan4 r'
+nuan5r' n uan5 r'
+nuan6r' n uan6 r'
+nun1r' n un1 r'
+nun2r' n un2 r'
+nun3r' n un3 r'
+nun4r' n un4 r'
+nun5r' n un5 r'
+nun6r' n un6 r'
+nuo1r' n uo1 r'
+nuo2r' n uo2 r'
+nuo3r' n uo3 r'
+nuo4r' n uo4 r'
+nuo5r' n uo5 r'
+nuo6r' n uo6 r'
+nv1r' n v1 r'
+nv2r' n v2 r'
+nv3r' n v3 r'
+nv4r' n v4 r'
+nv5r' n v5 r'
+nv6r' n v6 r'
+nue1r' n ue1 r'
+nue2r' n ue2 r'
+nue3r' n ue3 r'
+nue4r' n ue4 r'
+nue5r' n ue5 r'
+nue6r' n ue6 r'
+nve1r' n ve1 r'
+nve2r' n ve2 r'
+nve3r' n ve3 r'
+nve4r' n ve4 r'
+nve5r' n ve5 r'
+nve6r' n ve6 r'
+o1r' o1 r'
+o2r' o2 r'
+o3r' o3 r'
+o4r' o4 r'
+o5r' o5 r'
+o6r' o6 r'
+ou1r' ou1 r'
+ou2r' ou2 r'
+ou3r' ou3 r'
+ou4r' ou4 r'
+ou5r' ou5 r'
+ou6r' ou6 r'
+pa1r' p a1 r'
+pa2r' p a2 r'
+pa3r' p a3 r'
+pa4r' p a4 r'
+pa5r' p a5 r'
+pa6r' p a6 r'
+pai1r' p ai1 r'
+pai2r' p ai2 r'
+pai3r' p ai3 r'
+pai4r' p ai4 r'
+pai5r' p ai5 r'
+pai6r' p ai6 r'
+pan1r' p an1 r'
+pan2r' p an2 r'
+pan3r' p an3 r'
+pan4r' p an4 r'
+pan5r' p an5 r'
+pan6r' p an6 r'
+pang1r' p ang1 r'
+pang2r' p ang2 r'
+pang3r' p ang3 r'
+pang4r' p ang4 r'
+pang5r' p ang5 r'
+pang6r' p ang6 r'
+pao1r' p ao1 r'
+pao2r' p ao2 r'
+pao3r' p ao3 r'
+pao4r' p ao4 r'
+pao5r' p ao5 r'
+pao6r' p ao6 r'
+pei1r' p ei1 r'
+pei2r' p ei2 r'
+pei3r' p ei3 r'
+pei4r' p ei4 r'
+pei5r' p ei5 r'
+pei6r' p ei6 r'
+pen1r' p en1 r'
+pen2r' p en2 r'
+pen3r' p en3 r'
+pen4r' p en4 r'
+pen5r' p en5 r'
+pen6r' p en6 r'
+peng1r' p eng1 r'
+peng2r' p eng2 r'
+peng3r' p eng3 r'
+peng4r' p eng4 r'
+peng5r' p eng5 r'
+peng6r' p eng6 r'
+pi1r' p i1 r'
+pi2r' p i2 r'
+pi3r' p i3 r'
+pi4r' p i4 r'
+pi5r' p i5 r'
+pi6r' p i6 r'
+pian1r' p ian1 r'
+pian2r' p ian2 r'
+pian3r' p ian3 r'
+pian4r' p ian4 r'
+pian5r' p ian5 r'
+pian6r' p ian6 r'
+piao1r' p iao1 r'
+piao2r' p iao2 r'
+piao3r' p iao3 r'
+piao4r' p iao4 r'
+piao5r' p iao5 r'
+piao6r' p iao6 r'
+pie1r' p ie1 r'
+pie2r' p ie2 r'
+pie3r' p ie3 r'
+pie4r' p ie4 r'
+pie5r' p ie5 r'
+pie6r' p ie6 r'
+pin1r' p in1 r'
+pin2r' p in2 r'
+pin3r' p in3 r'
+pin4r' p in4 r'
+pin5r' p in5 r'
+pin6r' p in6 r'
+ping1r' p ing1 r'
+ping2r' p ing2 r'
+ping3r' p ing3 r'
+ping4r' p ing4 r'
+ping5r' p ing5 r'
+ping6r' p ing6 r'
+po1r' p o1 r'
+po2r' p o2 r'
+po3r' p o3 r'
+po4r' p o4 r'
+po5r' p o5 r'
+po6r' p o6 r'
+pou1r' p ou1 r'
+pou2r' p ou2 r'
+pou3r' p ou3 r'
+pou4r' p ou4 r'
+pou5r' p ou5 r'
+pou6r' p ou6 r'
+pu1r' p u1 r'
+pu2r' p u2 r'
+pu3r' p u3 r'
+pu4r' p u4 r'
+pu5r' p u5 r'
+pu6r' p u6 r'
+qi1r' q i1 r'
+qi2r' q i2 r'
+qi3r' q i3 r'
+qi4r' q i4 r'
+qi5r' q i5 r'
+qi6r' q i6 r'
+qia1r' q ia1 r'
+qia2r' q ia2 r'
+qia3r' q ia3 r'
+qia4r' q ia4 r'
+qia5r' q ia5 r'
+qia6r' q ia6 r'
+qian1r' q ian1 r'
+qian2r' q ian2 r'
+qian3r' q ian3 r'
+qian4r' q ian4 r'
+qian5r' q ian5 r'
+qian6r' q ian6 r'
+qiang1r' q iang1 r'
+qiang2r' q iang2 r'
+qiang3r' q iang3 r'
+qiang4r' q iang4 r'
+qiang5r' q iang5 r'
+qiang6r' q iang6 r'
+qiao1r' q iao1 r'
+qiao2r' q iao2 r'
+qiao3r' q iao3 r'
+qiao4r' q iao4 r'
+qiao5r' q iao5 r'
+qiao6r' q iao6 r'
+qie1r' q ie1 r'
+qie2r' q ie2 r'
+qie3r' q ie3 r'
+qie4r' q ie4 r'
+qie5r' q ie5 r'
+qie6r' q ie6 r'
+qin1r' q in1 r'
+qin2r' q in2 r'
+qin3r' q in3 r'
+qin4r' q in4 r'
+qin5r' q in5 r'
+qin6r' q in6 r'
+qing1r' q ing1 r'
+qing2r' q ing2 r'
+qing3r' q ing3 r'
+qing4r' q ing4 r'
+qing5r' q ing5 r'
+qing6r' q ing6 r'
+qiong1r' q iong1 r'
+qiong2r' q iong2 r'
+qiong3r' q iong3 r'
+qiong4r' q iong4 r'
+qiong5r' q iong5 r'
+qiong6r' q iong6 r'
+qiu1r' q iu1 r'
+qiu2r' q iu2 r'
+qiu3r' q iu3 r'
+qiu4r' q iu4 r'
+qiu5r' q iu5 r'
+qiu6r' q iu6 r'
+qu1r' q u1 r'
+qu2r' q u2 r'
+qu3r' q u3 r'
+qu4r' q u4 r'
+qu5r' q u5 r'
+qu6r' q u6 r'
+quan1r' q uan1 r'
+quan2r' q uan2 r'
+quan3r' q uan3 r'
+quan4r' q uan4 r'
+quan5r' q uan5 r'
+quan6r' q uan6 r'
+que1r' q ue1 r'
+que2r' q ue2 r'
+que3r' q ue3 r'
+que4r' q ue4 r'
+que5r' q ue5 r'
+que6r' q ue6 r'
+qun1r' q un1 r'
+qun2r' q un2 r'
+qun3r' q un3 r'
+qun4r' q un4 r'
+qun5r' q un5 r'
+qun6r' q un6 r'
+ran1r' r an1 r'
+ran2r' r an2 r'
+ran3r' r an3 r'
+ran4r' r an4 r'
+ran5r' r an5 r'
+ran6r' r an6 r'
+rang1r' r ang1 r'
+rang2r' r ang2 r'
+rang3r' r ang3 r'
+rang4r' r ang4 r'
+rang5r' r ang5 r'
+rang6r' r ang6 r'
+rao1r' r ao1 r'
+rao2r' r ao2 r'
+rao3r' r ao3 r'
+rao4r' r ao4 r'
+rao5r' r ao5 r'
+rao6r' r ao6 r'
+re1r' r e1 r'
+re2r' r e2 r'
+re3r' r e3 r'
+re4r' r e4 r'
+re5r' r e5 r'
+re6r' r e6 r'
+ren1r' r en1 r'
+ren2r' r en2 r'
+ren3r' r en3 r'
+ren4r' r en4 r'
+ren5r' r en5 r'
+ren6r' r en6 r'
+reng1r' r eng1 r'
+reng2r' r eng2 r'
+reng3r' r eng3 r'
+reng4r' r eng4 r'
+reng5r' r eng5 r'
+reng6r' r eng6 r'
+ri1r' r i1 r'
+ri2r' r i2 r'
+ri3r' r i3 r'
+ri4r' r i4 r'
+ri5r' r i5 r'
+ri6r' r i6 r'
+rong1r' r ong1 r'
+rong2r' r ong2 r'
+rong3r' r ong3 r'
+rong4r' r ong4 r'
+rong5r' r ong5 r'
+rong6r' r ong6 r'
+rou1r' r ou1 r'
+rou2r' r ou2 r'
+rou3r' r ou3 r'
+rou4r' r ou4 r'
+rou5r' r ou5 r'
+rou6r' r ou6 r'
+ru1r' r u1 r'
+ru2r' r u2 r'
+ru3r' r u3 r'
+ru4r' r u4 r'
+ru5r' r u5 r'
+ru6r' r u6 r'
+rua1r' r ua1 r'
+rua2r' r ua2 r'
+rua3r' r ua3 r'
+rua4r' r ua4 r'
+rua5r' r ua5 r'
+rua6r' r ua6 r'
+ruan1r' r uan1 r'
+ruan2r' r uan2 r'
+ruan3r' r uan3 r'
+ruan4r' r uan4 r'
+ruan5r' r uan5 r'
+ruan6r' r uan6 r'
+rui1r' r ui1 r'
+rui2r' r ui2 r'
+rui3r' r ui3 r'
+rui4r' r ui4 r'
+rui5r' r ui5 r'
+rui6r' r ui6 r'
+run1r' r un1 r'
+run2r' r un2 r'
+run3r' r un3 r'
+run4r' r un4 r'
+run5r' r un5 r'
+run6r' r un6 r'
+ruo1r' r uo1 r'
+ruo2r' r uo2 r'
+ruo3r' r uo3 r'
+ruo4r' r uo4 r'
+ruo5r' r uo5 r'
+ruo6r' r uo6 r'
+sa1r' s a1 r'
+sa2r' s a2 r'
+sa3r' s a3 r'
+sa4r' s a4 r'
+sa5r' s a5 r'
+sa6r' s a6 r'
+sai1r' s ai1 r'
+sai2r' s ai2 r'
+sai3r' s ai3 r'
+sai4r' s ai4 r'
+sai5r' s ai5 r'
+sai6r' s ai6 r'
+san1r' s an1 r'
+san2r' s an2 r'
+san3r' s an3 r'
+san4r' s an4 r'
+san5r' s an5 r'
+san6r' s an6 r'
+sang1r' s ang1 r'
+sang2r' s ang2 r'
+sang3r' s ang3 r'
+sang4r' s ang4 r'
+sang5r' s ang5 r'
+sang6r' s ang6 r'
+sao1r' s ao1 r'
+sao2r' s ao2 r'
+sao3r' s ao3 r'
+sao4r' s ao4 r'
+sao5r' s ao5 r'
+sao6r' s ao6 r'
+se1r' s e1 r'
+se2r' s e2 r'
+se3r' s e3 r'
+se4r' s e4 r'
+se5r' s e5 r'
+se6r' s e6 r'
+sei1r' s ei1 r'
+sei2r' s ei2 r'
+sei3r' s ei3 r'
+sei4r' s ei4 r'
+sei5r' s ei5 r'
+sei6r' s ei6 r'
+sen1r' s en1 r'
+sen2r' s en2 r'
+sen3r' s en3 r'
+sen4r' s en4 r'
+sen5r' s en5 r'
+sen6r' s en6 r'
+seng1r' s eng1 r'
+seng2r' s eng2 r'
+seng3r' s eng3 r'
+seng4r' s eng4 r'
+seng5r' s eng5 r'
+seng6r' s eng6 r'
+sha1r' sh a1 r'
+sha2r' sh a2 r'
+sha3r' sh a3 r'
+sha4r' sh a4 r'
+sha5r' sh a5 r'
+sha6r' sh a6 r'
+shai1r' sh ai1 r'
+shai2r' sh ai2 r'
+shai3r' sh ai3 r'
+shai4r' sh ai4 r'
+shai5r' sh ai5 r'
+shai6r' sh ai6 r'
+shan1r' sh an1 r'
+shan2r' sh an2 r'
+shan3r' sh an3 r'
+shan4r' sh an4 r'
+shan5r' sh an5 r'
+shan6r' sh an6 r'
+shang1r' sh ang1 r'
+shang2r' sh ang2 r'
+shang3r' sh ang3 r'
+shang4r' sh ang4 r'
+shang5r' sh ang5 r'
+shang6r' sh ang6 r'
+shao1r' sh ao1 r'
+shao2r' sh ao2 r'
+shao3r' sh ao3 r'
+shao4r' sh ao4 r'
+shao5r' sh ao5 r'
+shao6r' sh ao6 r'
+she1r' sh e1 r'
+she2r' sh e2 r'
+she3r' sh e3 r'
+she4r' sh e4 r'
+she5r' sh e5 r'
+she6r' sh e6 r'
+shei1r' sh ei1 r'
+shei2r' sh ei2 r'
+shei3r' sh ei3 r'
+shei4r' sh ei4 r'
+shei5r' sh ei5 r'
+shei6r' sh ei6 r'
+shen1r' sh en1 r'
+shen2r' sh en2 r'
+shen3r' sh en3 r'
+shen4r' sh en4 r'
+shen5r' sh en5 r'
+shen6r' sh en6 r'
+sheng1r' sh eng1 r'
+sheng2r' sh eng2 r'
+sheng3r' sh eng3 r'
+sheng4r' sh eng4 r'
+sheng5r' sh eng5 r'
+sheng6r' sh eng6 r'
+shi1r' sh i1 r'
+shi2r' sh i2 r'
+shi3r' sh i3 r'
+shi4r' sh i4 r'
+shi5r' sh i5 r'
+shi6r' sh i6 r'
+shong1r' sh ong1 r'
+shong2r' sh ong2 r'
+shong3r' sh ong3 r'
+shong4r' sh ong4 r'
+shong5r' sh ong5 r'
+shong6r' sh ong6 r'
+shou1r' sh ou1 r'
+shou2r' sh ou2 r'
+shou3r' sh ou3 r'
+shou4r' sh ou4 r'
+shou5r' sh ou5 r'
+shou6r' sh ou6 r'
+shu1r' sh u1 r'
+shu2r' sh u2 r'
+shu3r' sh u3 r'
+shu4r' sh u4 r'
+shu5r' sh u5 r'
+shu6r' sh u6 r'
+shua1r' sh ua1 r'
+shua2r' sh ua2 r'
+shua3r' sh ua3 r'
+shua4r' sh ua4 r'
+shua5r' sh ua5 r'
+shua6r' sh ua6 r'
+shuai1r' sh uai1 r'
+shuai2r' sh uai2 r'
+shuai3r' sh uai3 r'
+shuai4r' sh uai4 r'
+shuai5r' sh uai5 r'
+shuai6r' sh uai6 r'
+shuan1r' sh uan1 r'
+shuan2r' sh uan2 r'
+shuan3r' sh uan3 r'
+shuan4r' sh uan4 r'
+shuan5r' sh uan5 r'
+shuan6r' sh uan6 r'
+shuang1r' sh uang1 r'
+shuang2r' sh uang2 r'
+shuang3r' sh uang3 r'
+shuang4r' sh uang4 r'
+shuang5r' sh uang5 r'
+shuang6r' sh uang6 r'
+shui1r' sh ui1 r'
+shui2r' sh ui2 r'
+shui3r' sh ui3 r'
+shui4r' sh ui4 r'
+shui5r' sh ui5 r'
+shui6r' sh ui6 r'
+shun1r' sh un1 r'
+shun2r' sh un2 r'
+shun3r' sh un3 r'
+shun4r' sh un4 r'
+shun5r' sh un5 r'
+shun6r' sh un6 r'
+shuo1r' sh uo1 r'
+shuo2r' sh uo2 r'
+shuo3r' sh uo3 r'
+shuo4r' sh uo4 r'
+shuo5r' sh uo5 r'
+shuo6r' sh uo6 r'
+si1r' s i1 r'
+si2r' s i2 r'
+si3r' s i3 r'
+si4r' s i4 r'
+si5r' s i5 r'
+si6r' s i6 r'
+song1r' s ong1 r'
+song2r' s ong2 r'
+song3r' s ong3 r'
+song4r' s ong4 r'
+song5r' s ong5 r'
+song6r' s ong6 r'
+sou1r' s ou1 r'
+sou2r' s ou2 r'
+sou3r' s ou3 r'
+sou4r' s ou4 r'
+sou5r' s ou5 r'
+sou6r' s ou6 r'
+su1r' s u1 r'
+su2r' s u2 r'
+su3r' s u3 r'
+su4r' s u4 r'
+su5r' s u5 r'
+su6r' s u6 r'
+suan1r' s uan1 r'
+suan2r' s uan2 r'
+suan3r' s uan3 r'
+suan4r' s uan4 r'
+suan5r' s uan5 r'
+suan6r' s uan6 r'
+sui1r' s ui1 r'
+sui2r' s ui2 r'
+sui3r' s ui3 r'
+sui4r' s ui4 r'
+sui5r' s ui5 r'
+sui6r' s ui6 r'
+sun1r' s un1 r'
+sun2r' s un2 r'
+sun3r' s un3 r'
+sun4r' s un4 r'
+sun5r' s un5 r'
+sun6r' s un6 r'
+suo1r' s uo1 r'
+suo2r' s uo2 r'
+suo3r' s uo3 r'
+suo4r' s uo4 r'
+suo5r' s uo5 r'
+suo6r' s uo6 r'
+ta1r' t a1 r'
+ta2r' t a2 r'
+ta3r' t a3 r'
+ta4r' t a4 r'
+ta5r' t a5 r'
+ta6r' t a6 r'
+tai1r' t ai1 r'
+tai2r' t ai2 r'
+tai3r' t ai3 r'
+tai4r' t ai4 r'
+tai5r' t ai5 r'
+tai6r' t ai6 r'
+tan1r' t an1 r'
+tan2r' t an2 r'
+tan3r' t an3 r'
+tan4r' t an4 r'
+tan5r' t an5 r'
+tan6r' t an6 r'
+tang1r' t ang1 r'
+tang2r' t ang2 r'
+tang3r' t ang3 r'
+tang4r' t ang4 r'
+tang5r' t ang5 r'
+tang6r' t ang6 r'
+tao1r' t ao1 r'
+tao2r' t ao2 r'
+tao3r' t ao3 r'
+tao4r' t ao4 r'
+tao5r' t ao5 r'
+tao6r' t ao6 r'
+te1r' t e1 r'
+te2r' t e2 r'
+te3r' t e3 r'
+te4r' t e4 r'
+te5r' t e5 r'
+te6r' t e6 r'
+tei1r' t ei1 r'
+tei2r' t ei2 r'
+tei3r' t ei3 r'
+tei4r' t ei4 r'
+tei5r' t ei5 r'
+tei6r' t ei6 r'
+teng1r' t eng1 r'
+teng2r' t eng2 r'
+teng3r' t eng3 r'
+teng4r' t eng4 r'
+teng5r' t eng5 r'
+teng6r' t eng6 r'
+ti1r' t i1 r'
+ti2r' t i2 r'
+ti3r' t i3 r'
+ti4r' t i4 r'
+ti5r' t i5 r'
+ti6r' t i6 r'
+tian1r' t ian1 r'
+tian2r' t ian2 r'
+tian3r' t ian3 r'
+tian4r' t ian4 r'
+tian5r' t ian5 r'
+tian6r' t ian6 r'
+tiao1r' t iao1 r'
+tiao2r' t iao2 r'
+tiao3r' t iao3 r'
+tiao4r' t iao4 r'
+tiao5r' t iao5 r'
+tiao6r' t iao6 r'
+tie1r' t ie1 r'
+tie2r' t ie2 r'
+tie3r' t ie3 r'
+tie4r' t ie4 r'
+tie5r' t ie5 r'
+tie6r' t ie6 r'
+ting1r' t ing1 r'
+ting2r' t ing2 r'
+ting3r' t ing3 r'
+ting4r' t ing4 r'
+ting5r' t ing5 r'
+ting6r' t ing6 r'
+tong1r' t ong1 r'
+tong2r' t ong2 r'
+tong3r' t ong3 r'
+tong4r' t ong4 r'
+tong5r' t ong5 r'
+tong6r' t ong6 r'
+tou1r' t ou1 r'
+tou2r' t ou2 r'
+tou3r' t ou3 r'
+tou4r' t ou4 r'
+tou5r' t ou5 r'
+tou6r' t ou6 r'
+tu1r' t u1 r'
+tu2r' t u2 r'
+tu3r' t u3 r'
+tu4r' t u4 r'
+tu5r' t u5 r'
+tu6r' t u6 r'
+tuan1r' t uan1 r'
+tuan2r' t uan2 r'
+tuan3r' t uan3 r'
+tuan4r' t uan4 r'
+tuan5r' t uan5 r'
+tuan6r' t uan6 r'
+tui1r' t ui1 r'
+tui2r' t ui2 r'
+tui3r' t ui3 r'
+tui4r' t ui4 r'
+tui5r' t ui5 r'
+tui6r' t ui6 r'
+tun1r' t un1 r'
+tun2r' t un2 r'
+tun3r' t un3 r'
+tun4r' t un4 r'
+tun5r' t un5 r'
+tun6r' t un6 r'
+tuo1r' t uo1 r'
+tuo2r' t uo2 r'
+tuo3r' t uo3 r'
+tuo4r' t uo4 r'
+tuo5r' t uo5 r'
+tuo6r' t uo6 r'
+wa1r' ua1 r'
+wa2r' ua2 r'
+wa3r' ua3 r'
+wa4r' ua4 r'
+wa5r' ua5 r'
+wa6r' ua6 r'
+wai1r' uai1 r'
+wai2r' uai2 r'
+wai3r' uai3 r'
+wai4r' uai4 r'
+wai5r' uai5 r'
+wai6r' uai6 r'
+wan1r' uan1 r'
+wan2r' uan2 r'
+wan3r' uan3 r'
+wan4r' uan4 r'
+wan5r' uan5 r'
+wan6r' uan6 r'
+wang1r' uang1 r'
+wang2r' uang2 r'
+wang3r' uang3 r'
+wang4r' uang4 r'
+wang5r' uang5 r'
+wang6r' uang6 r'
+wei1r' ui1 r'
+wei2r' ui2 r'
+wei3r' ui3 r'
+wei4r' ui4 r'
+wei5r' ui5 r'
+wei6r' ui6 r'
+wen1r' un1 r'
+wen2r' un2 r'
+wen3r' un3 r'
+wen4r' un4 r'
+wen5r' un5 r'
+wen6r' un6 r'
+weng1r' ueng1 r'
+weng2r' ueng2 r'
+weng3r' ueng3 r'
+weng4r' ueng4 r'
+weng5r' ueng5 r'
+weng6r' ueng6 r'
+wo1r' uo1 r'
+wo2r' uo2 r'
+wo3r' uo3 r'
+wo4r' uo4 r'
+wo5r' uo5 r'
+wo6r' uo6 r'
+wu1r' u1 r'
+wu2r' u2 r'
+wu3r' u3 r'
+wu4r' u4 r'
+wu5r' u5 r'
+wu6r' u6 r'
+xi1r' x i1 r'
+xi2r' x i2 r'
+xi3r' x i3 r'
+xi4r' x i4 r'
+xi5r' x i5 r'
+xi6r' x i6 r'
+xia1r' x ia1 r'
+xia2r' x ia2 r'
+xia3r' x ia3 r'
+xia4r' x ia4 r'
+xia5r' x ia5 r'
+xia6r' x ia6 r'
+xian1r' x ian1 r'
+xian2r' x ian2 r'
+xian3r' x ian3 r'
+xian4r' x ian4 r'
+xian5r' x ian5 r'
+xian6r' x ian6 r'
+xiang1r' x iang1 r'
+xiang2r' x iang2 r'
+xiang3r' x iang3 r'
+xiang4r' x iang4 r'
+xiang5r' x iang5 r'
+xiang6r' x iang6 r'
+xiao1r' x iao1 r'
+xiao2r' x iao2 r'
+xiao3r' x iao3 r'
+xiao4r' x iao4 r'
+xiao5r' x iao5 r'
+xiao6r' x iao6 r'
+xie1r' x ie1 r'
+xie2r' x ie2 r'
+xie3r' x ie3 r'
+xie4r' x ie4 r'
+xie5r' x ie5 r'
+xie6r' x ie6 r'
+xin1r' x in1 r'
+xin2r' x in2 r'
+xin3r' x in3 r'
+xin4r' x in4 r'
+xin5r' x in5 r'
+xin6r' x in6 r'
+xing1r' x ing1 r'
+xing2r' x ing2 r'
+xing3r' x ing3 r'
+xing4r' x ing4 r'
+xing5r' x ing5 r'
+xing6r' x ing6 r'
+xiong1r' x iong1 r'
+xiong2r' x iong2 r'
+xiong3r' x iong3 r'
+xiong4r' x iong4 r'
+xiong5r' x iong5 r'
+xiong6r' x iong6 r'
+xiu1r' x iu1 r'
+xiu2r' x iu2 r'
+xiu3r' x iu3 r'
+xiu4r' x iu4 r'
+xiu5r' x iu5 r'
+xiu6r' x iu6 r'
+xu1r' x u1 r'
+xu2r' x u2 r'
+xu3r' x u3 r'
+xu4r' x u4 r'
+xu5r' x u5 r'
+xu6r' x u6 r'
+xuan1r' x uan1 r'
+xuan2r' x uan2 r'
+xuan3r' x uan3 r'
+xuan4r' x uan4 r'
+xuan5r' x uan5 r'
+xuan6r' x uan6 r'
+xue1r' x ue1 r'
+xue2r' x ue2 r'
+xue3r' x ue3 r'
+xue4r' x ue4 r'
+xue5r' x ue5 r'
+xue6r' x ue6 r'
+xun1r' x un1 r'
+xun2r' x un2 r'
+xun3r' x un3 r'
+xun4r' x un4 r'
+xun5r' x un5 r'
+xun6r' x un6 r'
+ya1r' ia1 r'
+ya2r' ia2 r'
+ya3r' ia3 r'
+ya4r' ia4 r'
+ya5r' ia5 r'
+ya6r' ia6 r'
+yai1r' y ai1 r'
+yai2r' y ai2 r'
+yai3r' y ai3 r'
+yai4r' y ai4 r'
+yai5r' y ai5 r'
+yai6r' y ai6 r'
+yan1r' ian1 r'
+yan2r' ian2 r'
+yan3r' ian3 r'
+yan4r' ian4 r'
+yan5r' ian5 r'
+yan6r' ian6 r'
+yang1r' iang1 r'
+yang2r' iang2 r'
+yang3r' iang3 r'
+yang4r' iang4 r'
+yang5r' iang5 r'
+yang6r' iang6 r'
+yao1r' iao1 r'
+yao2r' iao2 r'
+yao3r' iao3 r'
+yao4r' iao4 r'
+yao5r' iao5 r'
+yao6r' iao6 r'
+ye1r' ie1 r'
+ye2r' ie2 r'
+ye3r' ie3 r'
+ye4r' ie4 r'
+ye5r' ie5 r'
+ye6r' ie6 r'
+yi1r' i1 r'
+yi2r' i2 r'
+yi3r' i3 r'
+yi4r' i4 r'
+yi5r' i5 r'
+yi6r' i6 r'
+yin1r' in1 r'
+yin2r' in2 r'
+yin3r' in3 r'
+yin4r' in4 r'
+yin5r' in5 r'
+yin6r' in6 r'
+ying1r' ing1 r'
+ying2r' ing2 r'
+ying3r' ing3 r'
+ying4r' ing4 r'
+ying5r' ing5 r'
+ying6r' ing6 r'
+yo1r' y o1 r'
+yo2r' y o2 r'
+yo3r' y o3 r'
+yo4r' y o4 r'
+yo5r' y o5 r'
+yo6r' y o6 r'
+yong1r' iong1 r'
+yong2r' iong2 r'
+yong3r' iong3 r'
+yong4r' iong4 r'
+yong5r' iong5 r'
+yong6r' iong6 r'
+you1r' iu1 r'
+you2r' iu2 r'
+you3r' iu3 r'
+you4r' iu4 r'
+you5r' iu5 r'
+you6r' iu6 r'
+yu1r' v1 r'
+yu2r' v2 r'
+yu3r' v3 r'
+yu4r' v4 r'
+yu5r' v5 r'
+yu6r' v6 r'
+yuan1r' van1 r'
+yuan2r' van2 r'
+yuan3r' van3 r'
+yuan4r' van4 r'
+yuan5r' van5 r'
+yuan6r' van6 r'
+yue1r' ve1 r'
+yue2r' ve2 r'
+yue3r' ve3 r'
+yue4r' ve4 r'
+yue5r' ve5 r'
+yue6r' ve6 r'
+yun1r' vn1 r'
+yun2r' vn2 r'
+yun3r' vn3 r'
+yun4r' vn4 r'
+yun5r' vn5 r'
+yun6r' vn6 r'
+za1r' z a1 r'
+za2r' z a2 r'
+za3r' z a3 r'
+za4r' z a4 r'
+za5r' z a5 r'
+za6r' z a6 r'
+zai1r' z ai1 r'
+zai2r' z ai2 r'
+zai3r' z ai3 r'
+zai4r' z ai4 r'
+zai5r' z ai5 r'
+zai6r' z ai6 r'
+zan1r' z an1 r'
+zan2r' z an2 r'
+zan3r' z an3 r'
+zan4r' z an4 r'
+zan5r' z an5 r'
+zan6r' z an6 r'
+zang1r' z ang1 r'
+zang2r' z ang2 r'
+zang3r' z ang3 r'
+zang4r' z ang4 r'
+zang5r' z ang5 r'
+zang6r' z ang6 r'
+zao1r' z ao1 r'
+zao2r' z ao2 r'
+zao3r' z ao3 r'
+zao4r' z ao4 r'
+zao5r' z ao5 r'
+zao6r' z ao6 r'
+ze1r' z e1 r'
+ze2r' z e2 r'
+ze3r' z e3 r'
+ze4r' z e4 r'
+ze5r' z e5 r'
+ze6r' z e6 r'
+zei1r' z ei1 r'
+zei2r' z ei2 r'
+zei3r' z ei3 r'
+zei4r' z ei4 r'
+zei5r' z ei5 r'
+zei6r' z ei6 r'
+zen1r' z en1 r'
+zen2r' z en2 r'
+zen3r' z en3 r'
+zen4r' z en4 r'
+zen5r' z en5 r'
+zen6r' z en6 r'
+zeng1r' z eng1 r'
+zeng2r' z eng2 r'
+zeng3r' z eng3 r'
+zeng4r' z eng4 r'
+zeng5r' z eng5 r'
+zeng6r' z eng6 r'
+zha1r' zh a1 r'
+zha2r' zh a2 r'
+zha3r' zh a3 r'
+zha4r' zh a4 r'
+zha5r' zh a5 r'
+zha6r' zh a6 r'
+zhai1r' zh ai1 r'
+zhai2r' zh ai2 r'
+zhai3r' zh ai3 r'
+zhai4r' zh ai4 r'
+zhai5r' zh ai5 r'
+zhai6r' zh ai6 r'
+zhan1r' zh an1 r'
+zhan2r' zh an2 r'
+zhan3r' zh an3 r'
+zhan4r' zh an4 r'
+zhan5r' zh an5 r'
+zhan6r' zh an6 r'
+zhang1r' zh ang1 r'
+zhang2r' zh ang2 r'
+zhang3r' zh ang3 r'
+zhang4r' zh ang4 r'
+zhang5r' zh ang5 r'
+zhang6r' zh ang6 r'
+zhao1r' zh ao1 r'
+zhao2r' zh ao2 r'
+zhao3r' zh ao3 r'
+zhao4r' zh ao4 r'
+zhao5r' zh ao5 r'
+zhao6r' zh ao6 r'
+zhe1r' zh e1 r'
+zhe2r' zh e2 r'
+zhe3r' zh e3 r'
+zhe4r' zh e4 r'
+zhe5r' zh e5 r'
+zhe6r' zh e6 r'
+zhei1r' zh ei1 r'
+zhei2r' zh ei2 r'
+zhei3r' zh ei3 r'
+zhei4r' zh ei4 r'
+zhei5r' zh ei5 r'
+zhei6r' zh ei6 r'
+zhen1r' zh en1 r'
+zhen2r' zh en2 r'
+zhen3r' zh en3 r'
+zhen4r' zh en4 r'
+zhen5r' zh en5 r'
+zhen6r' zh en6 r'
+zheng1r' zh eng1 r'
+zheng2r' zh eng2 r'
+zheng3r' zh eng3 r'
+zheng4r' zh eng4 r'
+zheng5r' zh eng5 r'
+zheng6r' zh eng6 r'
+zhi1r' zh i1 r'
+zhi2r' zh i2 r'
+zhi3r' zh i3 r'
+zhi4r' zh i4 r'
+zhi5r' zh i5 r'
+zhi6r' zh i6 r'
+zhong1r' zh ong1 r'
+zhong2r' zh ong2 r'
+zhong3r' zh ong3 r'
+zhong4r' zh ong4 r'
+zhong5r' zh ong5 r'
+zhong6r' zh ong6 r'
+zhou1r' zh ou1 r'
+zhou2r' zh ou2 r'
+zhou3r' zh ou3 r'
+zhou4r' zh ou4 r'
+zhou5r' zh ou5 r'
+zhou6r' zh ou6 r'
+zhu1r' zh u1 r'
+zhu2r' zh u2 r'
+zhu3r' zh u3 r'
+zhu4r' zh u4 r'
+zhu5r' zh u5 r'
+zhu6r' zh u6 r'
+zhua1r' zh ua1 r'
+zhua2r' zh ua2 r'
+zhua3r' zh ua3 r'
+zhua4r' zh ua4 r'
+zhua5r' zh ua5 r'
+zhua6r' zh ua6 r'
+zhuai1r' zh uai1 r'
+zhuai2r' zh uai2 r'
+zhuai3r' zh uai3 r'
+zhuai4r' zh uai4 r'
+zhuai5r' zh uai5 r'
+zhuai6r' zh uai6 r'
+zhuan1r' zh uan1 r'
+zhuan2r' zh uan2 r'
+zhuan3r' zh uan3 r'
+zhuan4r' zh uan4 r'
+zhuan5r' zh uan5 r'
+zhuan6r' zh uan6 r'
+zhuang1r' zh uang1 r'
+zhuang2r' zh uang2 r'
+zhuang3r' zh uang3 r'
+zhuang4r' zh uang4 r'
+zhuang5r' zh uang5 r'
+zhuang6r' zh uang6 r'
+zhui1r' zh ui1 r'
+zhui2r' zh ui2 r'
+zhui3r' zh ui3 r'
+zhui4r' zh ui4 r'
+zhui5r' zh ui5 r'
+zhui6r' zh ui6 r'
+zhun1r' zh un1 r'
+zhun2r' zh un2 r'
+zhun3r' zh un3 r'
+zhun4r' zh un4 r'
+zhun5r' zh un5 r'
+zhun6r' zh un6 r'
+zhuo1r' zh uo1 r'
+zhuo2r' zh uo2 r'
+zhuo3r' zh uo3 r'
+zhuo4r' zh uo4 r'
+zhuo5r' zh uo5 r'
+zhuo6r' zh uo6 r'
+zi1r' z i1 r'
+zi2r' z i2 r'
+zi3r' z i3 r'
+zi4r' z i4 r'
+zi5r' z i5 r'
+zi6r' z i6 r'
+zong1r' z ong1 r'
+zong2r' z ong2 r'
+zong3r' z ong3 r'
+zong4r' z ong4 r'
+zong5r' z ong5 r'
+zong6r' z ong6 r'
+zou1r' z ou1 r'
+zou2r' z ou2 r'
+zou3r' z ou3 r'
+zou4r' z ou4 r'
+zou5r' z ou5 r'
+zou6r' z ou6 r'
+zu1r' z u1 r'
+zu2r' z u2 r'
+zu3r' z u3 r'
+zu4r' z u4 r'
+zu5r' z u5 r'
+zu6r' z u6 r'
+zuan1r' z uan1 r'
+zuan2r' z uan2 r'
+zuan3r' z uan3 r'
+zuan4r' z uan4 r'
+zuan5r' z uan5 r'
+zuan6r' z uan6 r'
+zui1r' z ui1 r'
+zui2r' z ui2 r'
+zui3r' z ui3 r'
+zui4r' z ui4 r'
+zui5r' z ui5 r'
+zui6r' z ui6 r'
+zun1r' z un1 r'
+zun2r' z un2 r'
+zun3r' z un3 r'
+zun4r' z un4 r'
+zun5r' z un5 r'
+zun6r' z un6 r'
+zuo1r' z uo1 r'
+zuo2r' z uo2 r'
+zuo3r' z uo3 r'
+zuo4r' z uo4 r'
+zuo5r' z uo5 r'
+zuo6r' z uo6 r'
