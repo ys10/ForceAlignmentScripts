@@ -1,3 +1,5 @@
+# coding: UTF-8
+
 text_file_name = "text"
 text_key_list = list()
 with open(text_file_name, 'r', encoding='UTF-8') as text_file:

@@ -1,3 +1,5 @@
+# coding: UTF-8
+
 original_text_file_name = "han_ad_decl.txt"
 result_text_file_name = "transcription.txt"
 

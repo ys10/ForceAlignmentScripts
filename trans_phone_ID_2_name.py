@@ -1,3 +1,5 @@
+# coding: UTF-8
+
 # construct phone dict.
 phone_file_name = "phones.txt"
 phone_dict = dict()

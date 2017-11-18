@@ -1,3 +1,5 @@
+# coding: UTF-8
+
 original_lexicon_file_name = "lexicon.txt"
 result_lexicon_file_name = "new_lexicon.txt"
 
