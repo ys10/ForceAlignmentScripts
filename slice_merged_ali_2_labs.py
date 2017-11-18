@@ -1,18 +1,17 @@
 # coding: UTF-8
 
 merged_align_file_name = "test/final_align_test.txt"
-sentence_dict = dict() # A dictionary of  sentence lists, each list contains some phonemes with their begin & end time.
+sentence_dict = dict()  # A dictionary of  sentence lists, each list contains some phonemes with their begin & end time.
 with open(merged_align_file_name, "r") as merged_align_file:
     while 1:
         lines = merged_align_file.readlines(10000)
         if not lines:
             break
         for line in lines:
-            phoneme_list = line.split('\t\t')
+            phoneme_list = line.split("\t\t")
             print(phoneme_list)
             if phoneme_list[0] not in sentence_dict.keys():
-                new_phoneme_list = list()
-                sentence_dict[phoneme_list[0]] = new_phoneme_list
+                sentence_dict[phoneme_list[0]] = list()
                 pass
             sentence_dict[phoneme_list[0]].append("\t".join(phoneme_list[1:]))
             pass
