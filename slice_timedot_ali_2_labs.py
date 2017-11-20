@@ -1,6 +1,6 @@
 # coding: UTF-8
 
-timepot_align_file_name = "test/timepot_dnn_2_test.txt"
+timepot_align_file_name = "results/timepot_dnn_1"
 sentence_dict = dict()  # A dictionary of  sentence lists, each list contains some phonemes with their begin & end time.
 with open(timepot_align_file_name, "r") as timepot_align_file:
     current_sentence_name = ""
@@ -10,7 +10,7 @@ with open(timepot_align_file_name, "r") as timepot_align_file:
             break
         for line in lines:
             temp_list = line.strip().split("\t")
-            print(temp_list)
+            # print(temp_list)
             if len(temp_list) == 1:  # New sentence(sentence name) or sentence end(a char ".").
                 current_sentence_name = temp_list[0]
                 continue
@@ -25,9 +25,11 @@ with open(timepot_align_file_name, "r") as timepot_align_file:
         pass
     pass
 
-labs_dir_name = "labs/dnn2/"
+labs_dir_name = "labs/dnn1/"
+labs_prefix_name = "dnn1_"
+labs_extension_name = ".lab"
 for sentence_file_name in sentence_dict.keys():
-    with open(labs_dir_name + sentence_file_name, "w") as sentence_file:
+    with open(labs_dir_name + labs_prefix_name + sentence_file_name + labs_extension_name, "w") as sentence_file:
         sentence_file.writelines(sentence_dict[sentence_file_name])
         pass
     pass

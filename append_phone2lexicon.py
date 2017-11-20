@@ -1,7 +1,7 @@
 # coding: UTF-8
 
-original_lexicon_file_name = "lexicon.txt"
-result_lexicon_file_name = "new_lexicon.txt"
+original_lexicon_file_name = "results/lexicon.txt"
+result_lexicon_file_name = "results/new_lexicon.txt"
 
 result_lines_list = list()
 with open(original_lexicon_file_name, 'r', encoding='UTF-8') as original_lexicon_file:
@@ -12,7 +12,9 @@ with open(original_lexicon_file_name, 'r', encoding='UTF-8') as original_lexicon
         for line in lines:
             result_lines_list.append(line)
             if "5" in line:
-                result_lines_list.append(line.replace("5", "6"))
+                new_line = line.replace("5", "6", 1)
+                new_line = new_line.replace("5", "2", 1)
+                result_lines_list.append(new_line)
                 pass
             pass
         pass
