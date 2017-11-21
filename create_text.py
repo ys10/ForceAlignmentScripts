@@ -1,7 +1,7 @@
 # coding: UTF-8
 
-original_text_file_name = "han_ad_decl.txt"
-result_text_file_name = "transcription.txt"
+original_text_file_name = "results/han_ad_decl_1.txt"
+result_text_file_name = "results/text.txt"
 
 result_line_list = list()
 with open(original_text_file_name, 'r', encoding='UTF-8') as original_text_file:
@@ -22,7 +22,7 @@ with open(original_text_file_name, 'r', encoding='UTF-8') as original_text_file:
             # print(text)
             # print(text[1])
             original_list[1] = text[1]
-            result_line_list.append("\t".join(original_list) + "\n")
+            result_line_list.append("\t".join(original_list))
             pass
         pass
 pass
