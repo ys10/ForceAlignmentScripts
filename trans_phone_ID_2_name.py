@@ -1,7 +1,7 @@
 # coding: UTF-8
 
 # construct phone dict.
-phone_file_name = "results/phones.txt"
+phone_file_name = "results/phones_zero_initial.txt"
 phone_dict = dict()
 with open(phone_file_name) as phone_file:
     while 1:
@@ -16,10 +16,10 @@ with open(phone_file_name) as phone_file:
             pass
         pass
 #
-result_file_name = "results/final_align_modified_lexicon.txt"
+result_file_name = "results/final_align_zero_initial.txt"
 with open(result_file_name, 'w') as result_file:
     #
-    original_file_name = "results/merged_alignment.txt"
+    original_file_name = "results/merged_alignment_zero_initial.txt"
     with open(original_file_name) as f:
         while 1:
             result_lines = list()

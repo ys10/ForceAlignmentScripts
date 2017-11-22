@@ -1,7 +1,7 @@
 # coding: UTF-8
 
-original_lexicon_file_name = "results/lexicon.txt"
-result_lexicon_file_name = "results/new_lexicon.txt"
+original_lexicon_file_name = "resource/lexicon.txt"
+result_lexicon_file_name = "resource/new_lexicon.txt"
 
 result_lines_list = list()
 with open(original_lexicon_file_name, 'r', encoding='UTF-8') as original_lexicon_file:
