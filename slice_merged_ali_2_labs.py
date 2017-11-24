@@ -8,12 +8,12 @@ with open(merged_align_file_name, "r") as merged_align_file:
         if not lines:
             break
         for line in lines:
-            phoneme_list = line.split("\t\t")
-            # print(phoneme_list)
-            if phoneme_list[0] not in sentence_dict.keys():
-                sentence_dict[phoneme_list[0]] = list()
+            phoneme = line.split("\t\t")
+            # print(phoneme)
+            if phoneme[0] not in sentence_dict.keys():
+                sentence_dict[phoneme[0]] = list()
                 pass
-            sentence_dict[phoneme_list[0]].append("\t".join(phoneme_list[1:]))
+            sentence_dict[phoneme[0]].append("\t".join(phoneme[1:]))
             pass
         pass
     pass
