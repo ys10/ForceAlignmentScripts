@@ -112,4 +112,7 @@ Use *slice_merged_ali_2_labs.py* to slice *final_align.txt* produced by previous
 ## Show alignment results
 You can check the alignment results using [wavesurfer](https://sourceforge.net/projects/wavesurfer/).
 
+## Transform alignment format(Optional)
+In case of alignment format difference between different TTS Systems, a script should be applied to transform the format.
 
+Use *trans_ali_format.py* to do this step. It depends on alignment format of your system, so this step is **optinal**.
