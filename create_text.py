@@ -48,7 +48,7 @@ def make_text(first_line, second_line):
         phoneme_str = second_line.strip()
         """replace char in str"""
         phoneme_str = phoneme_str.replace(". ", "")
-        phoneme_str = phoneme_str.replace(" \ ", " ")
+        phoneme_str = phoneme_str.replace(" / ", " ")
         return "\t".join([id_str, phoneme_str]) + "\n"
 
 

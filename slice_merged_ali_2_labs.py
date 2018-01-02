@@ -1,6 +1,6 @@
 # coding: UTF-8
 
-merged_align_file_name = "results/final_align_zero_initial.txt"
+merged_align_file_name = "results/mono_final_align.txt"
 sentence_dict = dict()  # A dictionary of  sentence lists, each list contains some phonemes with their begin & end time.
 with open(merged_align_file_name, "r") as merged_align_file:
     while 1:
@@ -18,8 +18,8 @@ with open(merged_align_file_name, "r") as merged_align_file:
         pass
     pass
 
-labs_dir_name = "labs/ours_zero_initial/"
-labs_prefix_name = "ours_zero_initial_"
+labs_dir_name = "labs/mono/"
+labs_prefix_name = "mono_"
 labs_extension_name = ".lab"
 for sentence_file_name in sentence_dict.keys():
     with open(labs_dir_name + labs_prefix_name + sentence_file_name + labs_extension_name, "w") as sentence_file:
