@@ -1,9 +1,31 @@
 # coding: UTF-8
 
+import sys
+import getopt
+
+
+def usage():
+    print("Usage: python trans_phone_ID_2_name.py [-p phones_file_path] [-i original_file_path] [-o output_file_path] ")
+
+
+opts, args = getopt.getopt(sys.argv[1:], "hp:i:o:")
+phone_file_path = ""
+original_file_path = ""
+output_file_path = ""
+for op, value in opts:
+    if op == "-p":
+        phone_file_path = value
+    elif op == "-i":
+        original_file_path = value
+    elif op == "-o":
+        output_file_path = value
+    elif op == "-h":
+        usage()
+        sys.exit()
+
 # construct phone dict.
-phone_file_name = "results/phones.txt"
 phone_dict = dict()
-with open(phone_file_name) as phone_file:
+with open(phone_file_path) as phone_file:
     while 1:
         phone_lines = phone_file.readlines(100000)
         if not phone_lines:
@@ -16,11 +38,9 @@ with open(phone_file_name) as phone_file:
             pass
         pass
 #
-result_file_name = "results/mono_final_align.txt"
-with open(result_file_name, 'w') as result_file:
+with open(output_file_path, 'w') as result_file:
     #
-    original_file_name = "results/mono_merged_alignment.txt"
-    with open(original_file_name) as f:
+    with open(original_file_path) as f:
         while 1:
             result_lines = list()
             lines = f.readlines(100000)

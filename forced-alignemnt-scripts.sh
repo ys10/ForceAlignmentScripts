@@ -161,6 +161,6 @@ cp exp/tri4a_ali/phones.txt ../../../script_dir/results/
 cd ../../../script_dir
 
 #Transform phone ID to phone name
-python3 trans_phone_ID_2_name.py
+python3 trans_phone_ID_2_name.py -p results/phones.txt -i results/merged_alignment.txt -o results/final_align.txt
 #Slice alignment into separated sentence file
-python3 slice_merged_ali_2_labs.py
+python3 slice_merged_ali_2_labs.py -i results/mono_final_align.txt -o labs/ali_tri4 -p tri4_
