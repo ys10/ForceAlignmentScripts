@@ -1,5 +1,5 @@
 # coding: UTF-8
-import os
+import os, sys, getopt
 from collections import deque
 
 
@@ -34,6 +34,21 @@ def write_wav_scp(wave_scp_file_name, result_lines_list):
     pass
 
 
+def usage():
+    print("Usage: python create_wav_scp.py [-i wave_directory_path] [-o output_file_path] ")
+
+
 if __name__ == "__main__":
-    results_list = get_wav_scp_results("wave", ".wav")
-    write_wav_scp("resource/wav.scp", results_list)
+    opts, args = getopt.getopt(sys.argv[1:], "hi:o:")
+    input_dir = ""
+    output_file = ""
+    for op, value in opts:
+        if op == "-i":
+            input_dir = value
+        elif op == "-o":
+            output_file = value
+        elif op == "-h":
+            usage()
+            sys.exit()
+    results_list = get_wav_scp_results(input_dir, ".wav")
+    write_wav_scp(output_file, results_list)

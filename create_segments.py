@@ -1,5 +1,6 @@
 # coding: UTF-8
 import wave
+import sys, getopt
 
 
 def get_wav_end_time(wav_file_path):
@@ -37,6 +38,21 @@ def write_segment_file(segment_file_name, result_lines_list):
     pass
 
 
+def usage():
+    print("Usage: python create_segments.py [-i wav.scp_path] [-o output_file_path] ")
+
+
 if __name__ == "__main__":
-    results_list = get_segment_list("resource/wav.scp")
-    write_segment_file("resource/segments", results_list)
+    opts, args = getopt.getopt(sys.argv[1:], "hi:o:")
+    input_file = ""
+    output_file = ""
+    for op, value in opts:
+        if op == "-i":
+            input_file = value
+        elif op == "-o":
+            output_file = value
+        elif op == "-h":
+            usage()
+            sys.exit()
+    results_list = get_segment_list(input_file)
+    write_segment_file(output_file, results_list)

@@ -1,5 +1,8 @@
 # coding: UTF-8
 
+import sys
+import getopt
+
 
 def get_utt2spk_list(wav_scp_file_name):
     result_lines_list = list()
@@ -26,6 +29,21 @@ def write_utt2spk_file(utt2spk_file_name, result_lines_list):
     pass
 
 
+def usage():
+    print("Usage: python create_utt2spk.py [-i wav.scp_path] [-o output_file_path] ")
+
+
 if __name__ == "__main__":
-    results_list = get_utt2spk_list("resource/wav.scp")
-    write_utt2spk_file("resource/utt2spk", results_list)
+    opts, args = getopt.getopt(sys.argv[1:], "hi:o:")
+    input_file = ""
+    output_file = ""
+    for op, value in opts:
+        if op == "-i":
+            input_file = value
+        elif op == "-o":
+            output_file = value
+        elif op == "-h":
+            usage()
+            sys.exit()
+    results_list = get_utt2spk_list(input_file)
+    write_utt2spk_file(output_file, results_list)

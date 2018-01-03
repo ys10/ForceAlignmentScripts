@@ -1,6 +1,6 @@
 # coding: UTF-8
 
-import os
+import os, sys, getopt
 
 
 def make_text(first_line, second_line):
@@ -88,7 +88,21 @@ def write_text_file(text_file_name, result_lines_list):
     pass
 
 
+def usage():
+    print("Usage: python create_text.py [-i transcription_directory_path] [-o output_file_path] ")
+
+
 if __name__ == "__main__":
-    results_list = get_text_list("prosodylabeling")
-    write_text_file("resource/text", results_list)
-    pass
+    opts, args = getopt.getopt(sys.argv[1:], "hi:o:")
+    input_dir = ""
+    output_file = ""
+    for op, value in opts:
+        if op == "-i":
+            input_dir = value
+        elif op == "-o":
+            output_file = value
+        elif op == "-h":
+            usage()
+            sys.exit()
+    results_list = get_text_list(input_dir)
+    write_text_file(output_file, results_list)
