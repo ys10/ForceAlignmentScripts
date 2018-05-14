@@ -1,7 +1,7 @@
 #cd forced-alignment directory
-script_dir=.
+script_dir=/home/yangshuai/work/ForceAlignmentScripts
 data_dir=/home/voicedata/xiaochang
-kaldi_dir=../kaldi-master
+kaldi_dir=/home/yangshuai/work/kaldi-master
 corpus_name=mycorpus_en
 python3 $script_dir/create_text.py -i $data_dir/utterance_en.txt  -o results/text
 python3 $script_dir/create_wav_scp.py -i $data_dir/wave -o results/wav.scp
@@ -39,7 +39,7 @@ cd ../..
 :<<BLOCK
 Create files for data/train
 BLOCK
-resource_dir=../../../ForceAlignmentScripts/results
+resource_dir=$script_dir/results
 train_dir=data/train
 #text
 cp $resource_dir/text $train_dir/
@@ -154,11 +154,11 @@ cat *.ctm > exp/tri4a_ali/merged_alignment.txt
 ....Post process
 BLOCK
 #move merged_alignment.txt & phones.txt
-cp exp/tri4a_ali/merged_alignment.txt ../../../script_dir/results/
-cp exp/tri4a_ali/phones.txt ../../../script_dir/results/
+cp exp/tri4a_ali/merged_alignment.txt $resource_dir
+cp exp/tri4a_ali/phones.txt $resource_dir
 
 #cd forced-alignment project directory
-cd ../../../script_dir
+cd $script_dir
 
 #Transform phone ID to phone name
 python3 trans_phone_ID_2_name.py -p results/phones.txt -i results/merged_alignment.txt -o results/final_align.txt
