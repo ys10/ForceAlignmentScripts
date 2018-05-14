@@ -3,11 +3,12 @@ script_dir=/home/yangshuai/work/ForceAlignmentScripts
 data_dir=/home/voicedata/xiaochang
 kaldi_dir=/home/yangshuai/work/kaldi-master
 corpus_name=mycorpus_en
+resource_dir=$script_dir/results/mycorpus_en
 
-python3 $script_dir/create_text.py -i $data_dir/utterance_en.txt  -o results/text
-python3 $script_dir/create_wav_scp.py -i $data_dir/wave -o results/wav.scp
-python3 $script_dir/create_segments.py -i results/wav.scp -o results/segments
-python3 $script_dir/create_utt2spk.py -i results/wav.scp -o results/utt2spk
+python3 $script_dir/create_text.py -i $data_dir/utterance_en.txt  -o $resource_dir/text
+python3 $script_dir/create_wav_scp.py -i $data_dir/wave -o $resource_dir/wav.scp
+python3 $script_dir/create_segments.py -i $resource_dir/wav.scp -o $resource_dir/segments
+python3 $script_dir/create_utt2spk.py -i $resource_dir/wav.scp -o $resource_dir/utt2spk
 
 :<<BLOCK
 Prepare kaldi directories
@@ -42,7 +43,6 @@ cd ../..
 :<<BLOCK
 Create files for data/train
 BLOCK
-resource_dir=$script_dir/results
 train_dir=data/train
 #text
 cp $resource_dir/text $train_dir/text
@@ -167,6 +167,6 @@ cp exp/tri4a_ali/phones.txt $resource_dir
 cd $script_dir
 
 #Transform phone ID to phone name
-python3 trans_phone_ID_2_name.py -p results/phones.txt -i results/merged_alignment.txt -o results/final_align.txt
+python3 trans_phone_ID_2_name.py -p $resource_dir/phones.txt -i $resource_dir/merged_alignment.txt -o $resource_dir/final_align.txt
 #Slice alignment into separated sentence file
-python3 slice_merged_ali_2_labs.py -i results/mono_final_align.txt -o labs/ali_tri4 -p tri4_
+python3 slice_merged_ali_2_labs.py -i $resource_dir/mono_final_align.txt -o labs/ali_tri4 -p tri4_
