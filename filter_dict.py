@@ -24,7 +24,7 @@ with open("data/local/lang/lexicon.txt") as f:
 
 print(ref)
 
-lex = open("data/local/lang/lexicon.txt", "wb")
+lex = open("data/local/lang/lexicon.txt", "w")
 
 with open("data/train/words.txt") as f:
     for line in f:

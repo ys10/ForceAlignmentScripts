@@ -3,9 +3,10 @@ script_dir=/home/yangshuai/work/ForceAlignmentScripts
 data_dir=/home/voicedata/xiaochang
 kaldi_dir=/home/yangshuai/work/kaldi-master
 corpus_name=mycorpus_en
+
 python3 $script_dir/create_text.py -i $data_dir/utterance_en.txt  -o results/text
 python3 $script_dir/create_wav_scp.py -i $data_dir/wave -o results/wav.scp
-python3 $script_dir/create_segments.py -i $data_dir/wave -o results/segments
+python3 $script_dir/create_segments.py -i results/wav.scp -o results/segments
 python3 $script_dir/create_utt2spk.py -i results/wav.scp -o results/utt2spk
 
 :<<BLOCK
@@ -18,7 +19,9 @@ ln -s ../wsj/s5/steps .
 ln -s ../wsj/s5/utils .
 ln -s ../../src .
 cp ../wsj/s5/path.sh .
-echo "export KALDI_ROOT='pwd'/../../.. to export KALDI_ROOT='pwd'/../.." > path.sh
+#echo "export KALDI_ROOT='pwd'/../../.. to export KALDI_ROOT='pwd'/../.." > path.sh
+
+cp $script_dir/filter_dict.py filter_dict.py
 
 mkdir exp
 mkdir conf
@@ -42,8 +45,8 @@ BLOCK
 resource_dir=$script_dir/results
 train_dir=data/train
 #text
-cp $resource_dir/text $train_dir/
-cut -d ' ' -f 2- text | sed 's/ /\n/g' | sort -u > words.txt
+cp $resource_dir/text $train_dir/text
+cut -d ' ' -f 2- $train_dir/text | sed 's/ /\n/g' | sort -u > $train_dir/words.txt
 #segments
 cp $resource_dir/segments $train_dir/
 #wav.scp
@@ -59,7 +62,7 @@ utils/fix_data_dir.sh $train_dir
 BLOCK
 lang_dir=data/local/lang
 #lexicon.txt
-cp $resource_dir/lexicon.txt $lang_dir/
+cp $resource_dir/lexicon.txt $lang_dir/lexicon.txt
 python3 filter_dict.py
 #nonsilence_phones.txt
 cut -d ' ' -f 2- $lang_dir/lexicon.txt | sed 's/ /\n/g' | sort -u > $lang_dir/nonsilence_phones.txt
@@ -69,7 +72,10 @@ echo "oov" >> $lang_dir/silence_phones.txt
 #optinal_phones.txt
 echo "sil" > $lang_dir/optional_silence.txt
 #extra_questions.txt
-echo "" > $lang_dir/extra_questions.txt
+#echo "" > $lang_dir/extra_questions.txt
+#lexicon.txt
+echo "oov oov" >> $lang_dir/lexicon.txt
+
 
 :<<BLOCK
 ....Create files for data/lang
@@ -93,7 +99,7 @@ BLOCK
 
 #Create mfcc.conf file in conf folder
 echo "--use-energy=false" > conf/mfcc.conf
-echo "--sample-frequency=44100" >> conf/mfcc.conf
+echo "--sample-frequency=16000" >> conf/mfcc.conf
 #Extract MFCC features
 mfccdir=mfcc
 x=data/train
@@ -113,7 +119,7 @@ steps/align_si.sh --boost-silence 1.25 --nj 1 --cmd "$train_cmd" data/train data
 ....Train & align triphones
 BLOCK
 #Train delta-based triphones
-steps/train_deltas.sh --boost-silence 1.25 --cmd "$train_cmd" 2000 10000 data/train data/lang exp/ali exp/tri1
+steps/train_deltas.sh --boost-silence 1.25 --cmd "$train_cmd" 2000 10000 data/train data/lang exp/ali_mono exp/tri1
 #Align delta-based triphones
 steps/align_si.sh --nj 1 --cmd "$train_cmd" data/train data/lang exp/tri1 exp/tri1_ali
 
