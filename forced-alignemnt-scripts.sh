@@ -2,8 +2,8 @@
 script_dir=.
 data_dir=/home/voicedata/xiaochang
 kaldi_dir=../kaldi-master
-corpus_name=mycorpus
-python3 $script_dir/create_text.py -i $data_dir/prosodylabeling  -o results/text
+corpus_name=mycorpus_zh
+python3 $script_dir/create_text.py -i $data_dir/utterance_en.txt  -o results/text
 python3 $script_dir/create_wav_scp.py -i $data_dir/wave -o results/wav.scp
 python3 $script_dir/create_segments.py -i $data_dir/wave -o results/segments
 python3 $script_dir/create_utt2spk.py -i results/wav.scp -o results/utt2spk

@@ -71,12 +71,16 @@ def get_text_from_transcription_file(transcription_file_name):
     return result_line_list
 
 
-def get_text_list(transcription_dir):
+def get_text_list(transcription_path):
     result_line_list = list()
-    items = os.listdir(transcription_dir)
-    for item in items:
-        result_line_list.extend(get_text_from_transcription_file(transcription_dir + "/" + item))
-        pass
+
+    if os.path.isdir(transcription_path):
+        items = os.listdir(transcription_path)
+        for item in items:
+            result_line_list.extend(get_text_from_transcription_file(transcription_path + "/" + item))
+    else:
+        result_line_list.extend(get_text_from_transcription_file(transcription_path))
+
     result_line_list.sort()
     return result_line_list
 
@@ -94,15 +98,15 @@ def usage():
 
 if __name__ == "__main__":
     opts, args = getopt.getopt(sys.argv[1:], "hi:o:")
-    input_dir = ""
+    input_path = ""
     output_file = ""
     for op, value in opts:
         if op == "-i":
-            input_dir = value
+            input_path = value
         elif op == "-o":
             output_file = value
         elif op == "-h":
             usage()
             sys.exit()
-    results_list = get_text_list(input_dir)
+    results_list = get_text_list(input_path)
     write_text_file(output_file, results_list)

@@ -4,3 +4,5 @@ test/*
 labs/*
 test.py
 prosodylabeling/*
+resource/*
+results/*
