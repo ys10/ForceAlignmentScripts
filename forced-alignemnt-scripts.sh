@@ -6,7 +6,7 @@ corpus_name=mycorpus_zh
 resource_dir=$script_dir/results/$corpus_name
 
 python3 $script_dir/create_text.py -i $data_dir/utterance_zh.txt  -o $resource_dir/text
-python3 $script_dir/create_wav_scp.py -i $data_dir/wave -o $resource_dir/wav.scp
+python3 $script_dir/create_wav_scp.py -i $data_dir/wave -o $resource_dir/wav.scp -l zh
 python3 $script_dir/create_segments.py -i $resource_dir/wav.scp -o $resource_dir/segments
 python3 $script_dir/create_utt2spk.py -i $resource_dir/wav.scp -o $resource_dir/utt2spk
 
