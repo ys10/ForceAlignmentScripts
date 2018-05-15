@@ -139,7 +139,7 @@ steps/align_fmllr.sh --nj 1 --cmd "$train_cmd" data/train data/lang exp/tri3a ex
 #Train SAT triphones
 steps/train_sat.sh --cmd "$train_cmd" 4200 40000 data/train data/lang exp/tri3a_ali exp/tri4a
 #Align SAT triphones
-steps/align_fmllr.sh --cmd "$train_cmd" data/train data/lang exp/tri4a exp/tri4a_ali
+steps/align_fmllr.sh --nj 1 --cmd "$train_cmd" data/train data/lang exp/tri4a exp/tri4a_ali
 
 
 :<<BLOCK
