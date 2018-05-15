@@ -2,11 +2,11 @@
 script_dir=/home/yangshuai/work/ForceAlignmentScripts
 data_dir=/home/voicedata/xiaochang
 kaldi_dir=/home/yangshuai/work/kaldi-master
-corpus_name=mycorpus_zh
+corpus_name=mycorpus_en
 resource_dir=$script_dir/results/$corpus_name
 
-python3 $script_dir/create_text.py -i $data_dir/utterance_zh.txt  -o $resource_dir/text
-python3 $script_dir/create_wav_scp.py -i $data_dir/wave -o $resource_dir/wav.scp -l zh
+python3 $script_dir/create_text.py -i $data_dir/utterance_en.txt  -o $resource_dir/text
+python3 $script_dir/create_wav_scp.py -i $data_dir/wave -o $resource_dir/wav.scp -l en
 python3 $script_dir/create_segments.py -i $resource_dir/wav.scp -o $resource_dir/segments
 python3 $script_dir/create_utt2spk.py -i $resource_dir/wav.scp -o $resource_dir/utt2spk
 
@@ -145,7 +145,7 @@ steps/align_fmllr.sh --nj 1 --cmd "$train_cmd" data/train data/lang exp/tri4a ex
 :<<BLOCK
 ....Obtain CTM output from alignment files
 BLOCK
-for i in exp/tri4a_alignme/ali.*.gz;
+for i in exp/tri4a_ali/ali.*.gz;
 do src/bin/ali-to-phones --ctm-output exp/tri4a/final.mdl ark:"gunzip -c $i|" -> ${i%.gz}.ctm;
 done;
 
@@ -153,7 +153,7 @@ done;
 :<<BLOCK
 ....Concatenate CTM files
 BLOCK
-cat *.ctm > exp/tri4a_ali/merged_alignment.txt
+cat exp/tri4a_ali/*.ctm > exp/tri4a_ali/merged_alignment.txt
 
 
 :<<BLOCK
@@ -169,4 +169,4 @@ cd $script_dir
 #Transform phone ID to phone name
 python3 trans_phone_ID_2_name.py -p $resource_dir/phones.txt -i $resource_dir/merged_alignment.txt -o $resource_dir/final_align.txt
 #Slice alignment into separated sentence file
-python3 slice_merged_ali_2_labs.py -i $resource_dir/mono_final_align.txt -o labs/ali_tri4 -p tri4_
+python3 slice_merged_ali_2_labs.py -i $resource_dir/final_align.txt -o $resource_dir/ali_tri4 -p tri4_

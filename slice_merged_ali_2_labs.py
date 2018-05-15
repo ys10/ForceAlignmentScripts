@@ -2,6 +2,7 @@
 
 import sys
 import getopt
+import os
 
 
 def usage():
@@ -42,7 +43,7 @@ with open(original_file_path, "r") as merged_align_file:
 
 labs_extension_name = ".lab"
 for sentence_file_name in sentence_dict.keys():
-    with open(output_dir_path + labs_prefix_name + sentence_file_name + labs_extension_name, "w") as sentence_file:
+    with open(os.path.join(output_dir_path, labs_prefix_name + sentence_file_name + labs_extension_name), "w") as sentence_file:
         sentence_file.writelines(sentence_dict[sentence_file_name])
         pass
     pass
